@@ -1,0 +1,941 @@
+/* ============================================
+   The Eternal Argument — Global Styles
+   Dark/Cinematic Theme
+   ============================================ */
+
+/* --- Reset & Base --- */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --bg-deep: #0a0a0f;
+    --bg-surface: #111827;
+    --bg-card: rgba(255, 255, 255, 0.05);
+    --bg-card-hover: rgba(255, 255, 255, 0.08);
+    --border-subtle: rgba(255, 255, 255, 0.1);
+    --border-hover: rgba(255, 255, 255, 0.2);
+    --text-primary: #f9fafb;
+    --text-body: #e5e7eb;
+    --text-muted: #9ca3af;
+    --text-dim: #6b7280;
+    --accent-gold: #d4a843;
+    --era-1: #c9a84c;
+    --era-2: #3b82f6;
+    --era-3: #ef4444;
+    --era-4: #8b5cf6;
+    --era-5: #06b6d4;
+    --era-6: #22c55e;
+    --era-7: #f97316;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    line-height: 1.7;
+    color: var(--text-body);
+    background: linear-gradient(180deg, var(--bg-deep) 0%, var(--bg-surface) 50%, var(--bg-deep) 100%);
+    min-height: 100vh;
+}
+
+a {
+    color: var(--accent-gold);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #e8c05a;
+}
+
+/* --- Progress Bar --- */
+.progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 0%;
+    height: 3px;
+    background: linear-gradient(90deg, var(--accent-gold), #e8c05a);
+    z-index: 1001;
+    transition: width 0.15s ease;
+}
+
+/* --- Navigation / Search Bar --- */
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(10, 10, 15, 0.85);
+    backdrop-filter: blur(20px);
+    border-bottom: 1px solid var(--border-subtle);
+    transform: translateY(-100%);
+    transition: transform 0.3s ease;
+}
+
+.top-bar.visible {
+    transform: translateY(0);
+}
+
+.top-bar .site-title {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--accent-gold);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.search-container {
+    position: relative;
+}
+
+.search-input {
+    padding: 0.5rem 1rem 0.5rem 2.5rem;
+    border: 1px solid var(--border-subtle);
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-body);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.85rem;
+    width: 250px;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+.search-input::placeholder {
+    color: var(--text-dim);
+}
+
+.search-input:focus {
+    border-color: var(--accent-gold);
+    background: rgba(255, 255, 255, 0.08);
+    width: 300px;
+}
+
+.search-icon {
+    position: absolute;
+    left: 0.75rem;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--text-dim);
+    font-size: 0.85rem;
+}
+
+.search-results {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    right: 0;
+    width: 400px;
+    max-height: 400px;
+    overflow-y: auto;
+    background: rgba(17, 24, 39, 0.98);
+    border: 1px solid var(--border-subtle);
+    border-radius: 12px;
+    display: none;
+    z-index: 200;
+}
+
+.search-results.active {
+    display: block;
+}
+
+.search-result-item {
+    padding: 0.75rem 1rem;
+    border-bottom: 1px solid var(--border-subtle);
+    cursor: pointer;
+    transition: background 0.2s ease;
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-item:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.search-result-item .ep-number {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.search-result-item .ep-title {
+    color: var(--text-primary);
+    font-size: 0.9rem;
+    margin-top: 0.15rem;
+}
+
+.search-result-item .ep-focus {
+    color: var(--text-muted);
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+/* --- Hero Section (Landing Page) --- */
+.hero {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: radial-gradient(ellipse at center, rgba(212, 168, 67, 0.08) 0%, transparent 70%);
+    pointer-events: none;
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+    max-width: 800px;
+}
+
+.hero-label {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--accent-gold);
+    margin-bottom: 1.5rem;
+    opacity: 0;
+    animation: fadeIn 1s ease 0.3s forwards;
+}
+
+.hero h1 {
+    font-size: clamp(2.5rem, 6vw, 5rem);
+    font-weight: 400;
+    color: var(--text-primary);
+    line-height: 1.15;
+    margin-bottom: 1.5rem;
+    opacity: 0;
+    animation: fadeIn 1s ease 0.6s forwards;
+}
+
+.hero .tagline {
+    font-size: clamp(1rem, 2.5vw, 1.4rem);
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 2.5rem;
+    opacity: 0;
+    animation: fadeIn 1s ease 0.9s forwards;
+}
+
+.hero .episode-count {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    letter-spacing: 0.1em;
+    opacity: 0;
+    animation: fadeIn 1s ease 1.2s forwards;
+}
+
+.hero .episode-count span {
+    color: var(--accent-gold);
+    font-weight: 600;
+}
+
+.scroll-indicator {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    animation: fadeIn 1s ease 1.5s forwards, float 2s ease-in-out infinite 2s;
+}
+
+.scroll-indicator::after {
+    content: '';
+    display: block;
+    width: 2px;
+    height: 40px;
+    background: linear-gradient(to bottom, var(--accent-gold), transparent);
+    margin: 0 auto;
+}
+
+/* --- Era Timeline (Landing Page) --- */
+.eras-section {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 4rem 2rem 6rem;
+}
+
+.section-heading {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.25em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.era-timeline {
+    position: relative;
+    padding-left: 3rem;
+}
+
+.era-timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(
+        to bottom,
+        var(--era-1),
+        var(--era-2),
+        var(--era-3),
+        var(--era-4),
+        var(--era-5),
+        var(--era-6),
+        var(--era-7)
+    );
+}
+
+.era-card {
+    position: relative;
+    margin-bottom: 2rem;
+    padding: 1.5rem 2rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    opacity: 0;
+    transform: translateX(-20px);
+}
+
+.era-card.visible {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.era-card::before {
+    content: '';
+    position: absolute;
+    left: -3rem;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 3px solid var(--border-subtle);
+    background: var(--bg-deep);
+    transition: all 0.3s ease;
+    z-index: 1;
+}
+
+.era-card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-hover);
+    transform: translateX(4px);
+}
+
+.era-card:hover::before {
+    transform: translate(-50%, -50%) scale(1.3);
+}
+
+.era-card[data-era="1"]::before { border-color: var(--era-1); }
+.era-card[data-era="1"]:hover { box-shadow: 0 0 30px rgba(201, 168, 76, 0.1); }
+.era-card[data-era="2"]::before { border-color: var(--era-2); }
+.era-card[data-era="2"]:hover { box-shadow: 0 0 30px rgba(59, 130, 246, 0.1); }
+.era-card[data-era="3"]::before { border-color: var(--era-3); }
+.era-card[data-era="3"]:hover { box-shadow: 0 0 30px rgba(239, 68, 68, 0.1); }
+.era-card[data-era="4"]::before { border-color: var(--era-4); }
+.era-card[data-era="4"]:hover { box-shadow: 0 0 30px rgba(139, 92, 246, 0.1); }
+.era-card[data-era="5"]::before { border-color: var(--era-5); }
+.era-card[data-era="5"]:hover { box-shadow: 0 0 30px rgba(6, 182, 212, 0.1); }
+.era-card[data-era="6"]::before { border-color: var(--era-6); }
+.era-card[data-era="6"]:hover { box-shadow: 0 0 30px rgba(34, 197, 94, 0.1); }
+.era-card[data-era="7"]::before { border-color: var(--era-7); }
+.era-card[data-era="7"]:hover { box-shadow: 0 0 30px rgba(249, 115, 22, 0.1); }
+
+.era-card .era-number {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.3rem;
+}
+
+.era-card .era-title {
+    font-size: 1.4rem;
+    color: var(--text-primary);
+    font-weight: 400;
+    margin-bottom: 0.3rem;
+}
+
+.era-card .era-subtitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 0.5rem;
+}
+
+.era-card .era-desc {
+    font-size: 0.9rem;
+    color: var(--text-dim);
+    font-style: italic;
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+}
+
+.era-card .era-meta {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+}
+
+.era-card .era-meta span {
+    color: var(--text-muted);
+}
+
+/* --- Era Page Header --- */
+.era-header {
+    padding: 6rem 2rem 3rem;
+    text-align: center;
+    position: relative;
+}
+
+.era-header::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 2px;
+    background: var(--accent-gold);
+}
+
+.era-header .back-link {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+    display: inline-block;
+    margin-bottom: 2rem;
+    transition: color 0.3s ease;
+}
+
+.era-header .back-link:hover {
+    color: var(--accent-gold);
+}
+
+.era-header .era-number-large {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.75rem;
+}
+
+.era-header h1 {
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 400;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.era-header .era-period {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    font-style: italic;
+    margin-bottom: 1rem;
+}
+
+.era-header .era-description {
+    font-size: 1rem;
+    color: var(--text-dim);
+    max-width: 600px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+/* --- Section Groups (Era Page) --- */
+.sections-container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 3rem 2rem 4rem;
+}
+
+.section-group {
+    margin-bottom: 3rem;
+}
+
+.section-group-header {
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+.section-group-header h2 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: var(--text-primary);
+}
+
+.section-group-header .section-subtitle {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    font-style: italic;
+    margin-top: 0.25rem;
+}
+
+/* --- Episode Cards (Era Page) --- */
+.episode-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.episode-card {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25rem;
+    padding: 1.25rem 1.5rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.episode-card:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-hover);
+    transform: translateX(4px);
+}
+
+.episode-card .ep-num {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    min-width: 2.5rem;
+    padding-top: 0.2rem;
+    letter-spacing: 0.05em;
+}
+
+.episode-card .ep-info {
+    flex: 1;
+}
+
+.episode-card .ep-title {
+    font-size: 1.05rem;
+    color: var(--text-primary);
+    margin-bottom: 0.2rem;
+    line-height: 1.4;
+}
+
+.episode-card .ep-focus {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.episode-card .ep-concept {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    margin-top: 0.4rem;
+    line-height: 1.4;
+}
+
+.episode-card .ep-arrow {
+    color: var(--text-dim);
+    font-size: 1rem;
+    padding-top: 0.2rem;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.episode-card:hover .ep-arrow {
+    transform: translateX(4px);
+    color: var(--accent-gold);
+}
+
+/* --- Episode Page --- */
+.episode-header {
+    padding: 6rem 2rem 3rem;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.episode-header .breadcrumb {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.episode-header .breadcrumb a {
+    color: var(--text-dim);
+}
+
+.episode-header .breadcrumb a:hover {
+    color: var(--accent-gold);
+}
+
+.episode-header .breadcrumb .separator {
+    color: var(--text-dim);
+    opacity: 0.5;
+}
+
+.episode-header .ep-label {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.75rem;
+}
+
+.episode-header h1 {
+    font-size: clamp(1.8rem, 4vw, 2.8rem);
+    font-weight: 400;
+    color: var(--text-primary);
+    line-height: 1.25;
+    margin-bottom: 0.75rem;
+}
+
+.episode-header .ep-focus-line {
+    font-size: 1.15rem;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+/* --- Episode Body --- */
+.episode-body {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 2rem 2rem 4rem;
+}
+
+.episode-section {
+    margin-bottom: 2.5rem;
+}
+
+.episode-section h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+.episode-section p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-body);
+}
+
+.highlight-box {
+    padding: 1.5rem;
+    background: var(--bg-card);
+    border-left: 3px solid var(--accent-gold);
+    border-radius: 0 10px 10px 0;
+    margin-top: 0.5rem;
+}
+
+.highlight-box .label {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--accent-gold);
+    margin-bottom: 0.4rem;
+}
+
+.highlight-box .value {
+    font-size: 1.1rem;
+    color: var(--text-primary);
+    line-height: 1.6;
+}
+
+/* --- Audio Player --- */
+.audio-section {
+    margin: 2rem 0 3rem;
+    padding: 2rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 12px;
+    text-align: center;
+}
+
+.audio-section h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 1rem;
+    border: none;
+    padding: 0;
+}
+
+.audio-section audio {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 8px;
+}
+
+.audio-coming-soon {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.9rem;
+    color: var(--text-dim);
+    font-style: italic;
+}
+
+/* --- Navigation (Prev/Next) --- */
+.nav-footer {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    border-top: 1px solid var(--border-subtle);
+}
+
+.nav-btn {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    padding: 1rem 1.25rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 10px;
+    color: var(--text-body);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    max-width: 45%;
+}
+
+.nav-btn:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-hover);
+    color: var(--text-primary);
+}
+
+.nav-btn.next {
+    text-align: right;
+    margin-left: auto;
+}
+
+.nav-btn .nav-label {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+}
+
+.nav-btn .nav-title {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.3;
+}
+
+.nav-btn:hover .nav-title {
+    color: var(--text-primary);
+}
+
+/* --- Era Navigation (Prev/Next) --- */
+.era-nav-footer {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    border-top: 1px solid var(--border-subtle);
+}
+
+/* --- Footer --- */
+.site-footer {
+    text-align: center;
+    padding: 3rem 2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+}
+
+/* --- Animations --- */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes float {
+    0%, 100% { transform: translateX(-50%) translateY(0); }
+    50% { transform: translateX(-50%) translateY(-10px); }
+}
+
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* --- Loading State --- */
+.loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    color: var(--text-dim);
+    font-style: italic;
+}
+
+/* --- Error State --- */
+.error-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    text-align: center;
+    padding: 2rem;
+}
+
+.error-state h1 {
+    font-size: 2rem;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+}
+
+.error-state p {
+    color: var(--text-muted);
+    margin-bottom: 2rem;
+}
+
+/* --- Responsive --- */
+@media (max-width: 768px) {
+    .top-bar {
+        padding: 0.75rem 1rem;
+    }
+
+    .search-input {
+        width: 180px;
+    }
+
+    .search-input:focus {
+        width: 200px;
+    }
+
+    .search-results {
+        width: calc(100vw - 2rem);
+        right: -0.5rem;
+    }
+
+    .hero {
+        padding: 2rem 1.5rem;
+    }
+
+    .eras-section {
+        padding: 3rem 1.5rem 4rem;
+    }
+
+    .era-timeline {
+        padding-left: 2.5rem;
+    }
+
+    .era-card::before {
+        left: -2.5rem;
+    }
+
+    .era-card {
+        padding: 1.25rem 1.25rem;
+    }
+
+    .era-header {
+        padding: 5rem 1.5rem 2.5rem;
+    }
+
+    .sections-container {
+        padding: 2rem 1.5rem 3rem;
+    }
+
+    .episode-card {
+        padding: 1rem 1.25rem;
+    }
+
+    .episode-header {
+        padding: 5rem 1.5rem 2rem;
+    }
+
+    .episode-body {
+        padding: 1.5rem 1.5rem 3rem;
+    }
+
+    .nav-footer,
+    .era-nav-footer {
+        padding: 2rem 1.5rem;
+        flex-direction: column;
+    }
+
+    .nav-btn {
+        max-width: 100%;
+        width: 100%;
+    }
+
+    .nav-btn.next {
+        text-align: left;
+    }
+}
+
+@media (max-width: 480px) {
+    .era-card .era-title {
+        font-size: 1.2rem;
+    }
+
+    .episode-card {
+        gap: 0.75rem;
+    }
+
+    .episode-card .ep-num {
+        min-width: 2rem;
+    }
+}

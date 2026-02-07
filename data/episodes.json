@@ -1,0 +1,2716 @@
+{
+  "series": {
+    "title": "The Eternal Argument",
+    "tagline": "From Myth to Machine — The Story of Human Thought",
+    "totalEpisodes": 219
+  },
+  "eras": [
+    {
+      "id": 1,
+      "number": "I",
+      "title": "Foundations",
+      "subtitle": "The First 2,000 Years",
+      "description": "The birth of abstract thought. Moving from myth to logos.",
+      "color": "#c9a84c",
+      "episodeRange": [
+        1,
+        18
+      ],
+      "sections": [
+        {
+          "title": "The Archaic & Axial Age",
+          "subtitle": "The Awakening",
+          "episodes": [
+            1,
+            2
+          ]
+        },
+        {
+          "title": "The High Classics",
+          "subtitle": "The Systems",
+          "episodes": [
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "title": "The Hellenistic Era",
+          "subtitle": "The Therapy",
+          "episodes": [
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "title": "The Medieval Era",
+          "subtitle": "Faith & Reason",
+          "episodes": [
+            11,
+            12,
+            13,
+            14,
+            15
+          ]
+        },
+        {
+          "title": "The Renaissance & Scientific Revolution",
+          "subtitle": "The Break",
+          "episodes": [
+            16,
+            17,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "number": "II",
+      "title": "The Architects of Modernity",
+      "subtitle": "1600–1800",
+      "description": "The systems that built the modern world. Shifting from 'Why?' to 'How?'",
+      "color": "#3b82f6",
+      "episodeRange": [
+        19,
+        33
+      ],
+      "sections": [
+        {
+          "title": "The Rationalists",
+          "subtitle": "Truth from Mind",
+          "episodes": [
+            19,
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "title": "The Empiricists",
+          "subtitle": "Truth from Senses",
+          "episodes": [
+            23,
+            24,
+            25,
+            26
+          ]
+        },
+        {
+          "title": "The Social Revolutionaries",
+          "subtitle": "",
+          "episodes": [
+            27,
+            28,
+            29,
+            30
+          ]
+        },
+        {
+          "title": "The Apex of Modernity",
+          "subtitle": "",
+          "episodes": [
+            31,
+            32,
+            33
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "number": "III",
+      "title": "The 19th Century Explosion",
+      "subtitle": "1800–1900",
+      "description": "The rise of History, Will, and Revolution. The systems of Era II are set on fire.",
+      "color": "#ef4444",
+      "episodeRange": [
+        34,
+        51
+      ],
+      "sections": [
+        {
+          "title": "The German Idealists",
+          "subtitle": "",
+          "episodes": [
+            34,
+            35
+          ]
+        },
+        {
+          "title": "The Pessimists & Existentialists",
+          "subtitle": "",
+          "episodes": [
+            36,
+            37,
+            38,
+            39
+          ]
+        },
+        {
+          "title": "The Materialists",
+          "subtitle": "",
+          "episodes": [
+            40,
+            41,
+            42
+          ]
+        },
+        {
+          "title": "The Dynamite",
+          "subtitle": "",
+          "episodes": [
+            43,
+            44,
+            45,
+            46
+          ]
+        },
+        {
+          "title": "The Psychologists & Pragmatists",
+          "subtitle": "",
+          "episodes": [
+            47,
+            48,
+            49,
+            50,
+            51
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "number": "IV",
+      "title": "The Great Split",
+      "subtitle": "1900–1950",
+      "description": "The divide between Logic (Analytic) and Experience (Continental).",
+      "color": "#8b5cf6",
+      "episodeRange": [
+        52,
+        82
+      ],
+      "sections": [
+        {
+          "title": "The Analysts",
+          "subtitle": "Logic & Language",
+          "episodes": [
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61
+          ]
+        },
+        {
+          "title": "The Continentals",
+          "subtitle": "Phenomenology & Existentialism",
+          "episodes": [
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73
+          ]
+        },
+        {
+          "title": "The Frankfurt School & Political Theory",
+          "subtitle": "",
+          "episodes": [
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "number": "V",
+      "title": "Post-War & Post-Modern",
+      "subtitle": "1950–1990",
+      "description": "Deconstruction, Power, and the fracture of Truth.",
+      "color": "#06b6d4",
+      "episodeRange": [
+        83,
+        128
+      ],
+      "sections": [
+        {
+          "title": "Structuralism & Post-Structuralism",
+          "subtitle": "",
+          "episodes": [
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109
+          ]
+        },
+        {
+          "title": "Justice & The Self",
+          "subtitle": "",
+          "episodes": [
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123
+          ]
+        },
+        {
+          "title": "Post-Colonial & Critical Theory",
+          "subtitle": "",
+          "episodes": [
+            124,
+            125,
+            126,
+            127,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "number": "VI",
+      "title": "The Contemporary Explosion",
+      "subtitle": "1990–2015",
+      "description": "Granular & Specific. Deep dives into single, influential books.",
+      "color": "#22c55e",
+      "episodeRange": [
+        129,
+        168
+      ],
+      "sections": [
+        {
+          "title": "Mind & Consciousness",
+          "subtitle": "",
+          "episodes": [
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135
+          ]
+        },
+        {
+          "title": "Gender & Body Politics",
+          "subtitle": "",
+          "episodes": [
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142
+          ]
+        },
+        {
+          "title": "Political Power & Bio-Power",
+          "subtitle": "",
+          "episodes": [
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150
+          ]
+        },
+        {
+          "title": "Reality & Capitalism",
+          "subtitle": "",
+          "episodes": [
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162
+          ]
+        },
+        {
+          "title": "Ethics & Justice",
+          "subtitle": "",
+          "episodes": [
+            163,
+            164,
+            165,
+            166,
+            167,
+            168
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "number": "VII",
+      "title": "The Now & The Future",
+      "subtitle": "2015–2025",
+      "description": "Digitality, AI, and the Anthropocene. Philosophy in real-time.",
+      "color": "#f97316",
+      "episodeRange": [
+        169,
+        219
+      ],
+      "sections": [
+        {
+          "title": "Artificial Intelligence & Tech",
+          "subtitle": "",
+          "episodes": [
+            169,
+            170,
+            171,
+            172,
+            173,
+            174
+          ]
+        },
+        {
+          "title": "The Burnout Society",
+          "subtitle": "",
+          "episodes": [
+            175,
+            176,
+            177,
+            178,
+            179
+          ]
+        },
+        {
+          "title": "Existential Risk & Pessimism",
+          "subtitle": "",
+          "episodes": [
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187
+          ]
+        },
+        {
+          "title": "Identity & Justice",
+          "subtitle": "",
+          "episodes": [
+            188,
+            189,
+            190,
+            191,
+            192,
+            193
+          ]
+        },
+        {
+          "title": "Agency & Games",
+          "subtitle": "",
+          "episodes": [
+            194,
+            195,
+            196,
+            197
+          ]
+        },
+        {
+          "title": "Science & Nature",
+          "subtitle": "",
+          "episodes": [
+            198,
+            199,
+            200,
+            201,
+            202,
+            203
+          ]
+        },
+        {
+          "title": "Experience & Self",
+          "subtitle": "",
+          "episodes": [
+            204,
+            205,
+            206,
+            207,
+            208,
+            209,
+            210,
+            211
+          ]
+        },
+        {
+          "title": "The Trans-Human Future",
+          "subtitle": "",
+          "episodes": [
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219
+          ]
+        }
+      ]
+    }
+  ],
+  "episodes": [
+    {
+      "id": 1,
+      "era": 1,
+      "title": "The Pre-Socratics: Thales to Parmenides",
+      "focus": "Water, Fire, and Flux",
+      "context": "Ancient Greece (Ionia & Italy). A time of fragmented city-states where thinkers began stripping away the gods to find the \"Stuff\" (Arche) of the universe.",
+      "keyConflict": "Heraclitus (Everything changes) vs. Parmenides (Nothing changes)",
+      "keyConcept": null,
+      "audioFile": "ep001.mp3"
+    },
+    {
+      "id": 2,
+      "era": 1,
+      "title": "The Sophists & Socrates",
+      "focus": "The Invention of Ethics",
+      "context": "The Golden Age of Athens. Democracy is rising, but so is relativism. The Sophists teach how to win arguments; Socrates asks what is true.",
+      "keyConflict": "Might vs. Right / Rhetoric vs. Truth",
+      "keyConcept": null,
+      "audioFile": "ep002.mp3"
+    },
+    {
+      "id": 3,
+      "era": 1,
+      "title": "Plato I: The Forms",
+      "focus": "The Theory of Forms & The Cave",
+      "context": "Post-Socrates Athens. Plato tries to stabilize a crumbling world by positing a perfect, eternal realm beyond our senses.",
+      "keyConflict": null,
+      "keyConcept": "The visible world is a shadow; the intelligible world is real",
+      "audioFile": "ep003.mp3"
+    },
+    {
+      "id": 4,
+      "era": 1,
+      "title": "Plato II: The Republic",
+      "focus": "Politics & The Soul",
+      "context": "The failure of Athenian democracy (which killed Socrates). Plato designs a utopia ruled by philosopher-kings.",
+      "keyConflict": null,
+      "keyConcept": "The City is the Soul writ large",
+      "audioFile": "ep004.mp3"
+    },
+    {
+      "id": 5,
+      "era": 1,
+      "title": "Aristotle I: The Toolset",
+      "focus": "Metaphysics & Logic",
+      "context": "The Macedonian Empire rises. Aristotle categorizes the physical world, inventing biology and logic.",
+      "keyConflict": null,
+      "keyConcept": "Hylomorphism (Matter + Form)",
+      "audioFile": "ep005.mp3"
+    },
+    {
+      "id": 6,
+      "era": 1,
+      "title": "Aristotle II: Virtue Ethics",
+      "focus": "The Nicomachean Ethics",
+      "context": "How to live a good life in a polis.",
+      "keyConflict": null,
+      "keyConcept": "Eudaimonia (Flourishing) and the Golden Mean",
+      "audioFile": "ep006.mp3"
+    },
+    {
+      "id": 7,
+      "era": 1,
+      "title": "Epicurus & The Cynics",
+      "focus": "Pleasure vs. Dogs",
+      "context": "Alexander the Great is dead; the world is massive and scary. Epicurus says \"hide in the garden\"; Diogenes says \"bark at the emperor.\"",
+      "keyConflict": null,
+      "keyConcept": "Ataraxia (Freedom from anxiety)",
+      "audioFile": "ep007.mp3"
+    },
+    {
+      "id": 8,
+      "era": 1,
+      "title": "The Stoics: Zeno, Epictetus, & Marcus Aurelius",
+      "focus": "Control & Duty",
+      "context": "Roman Empire. From a slave (Epictetus) to an Emperor (Marcus), Stoicism becomes the operating system of Rome.",
+      "keyConflict": null,
+      "keyConcept": "Dichotomy of Control (Internal vs. External)",
+      "audioFile": "ep008.mp3"
+    },
+    {
+      "id": 9,
+      "era": 1,
+      "title": "The Skeptics: Pyrrho & Sextus Empiricus",
+      "focus": "Suspended Judgment",
+      "context": "The clash of dogmatic schools. The Skeptics find peace by admitting they know nothing.",
+      "keyConflict": null,
+      "keyConcept": "Epoche (Suspension of judgment)",
+      "audioFile": "ep009.mp3"
+    },
+    {
+      "id": 10,
+      "era": 1,
+      "title": "Neoplatonism: Plotinus",
+      "focus": "The One & The Emanations",
+      "context": "Late Antiquity (The decline of Rome). Philosophy turns mystical, preparing the ground for Monotheism.",
+      "keyConflict": null,
+      "keyConcept": "The ascent of the soul back to the One",
+      "audioFile": "ep010.mp3"
+    },
+    {
+      "id": 11,
+      "era": 1,
+      "title": "Augustine of Hippo",
+      "focus": "Faith, Time, and Sin",
+      "context": "The Fall of Rome (410 AD). Augustine writes City of God to explain why the earthly empire failed and the heavenly one endures.",
+      "keyConflict": null,
+      "keyConcept": "Original Sin and the nature of Time",
+      "audioFile": "ep011.mp3"
+    },
+    {
+      "id": 12,
+      "era": 1,
+      "title": "The Islamic Golden Age: Avicenna & Averroes",
+      "focus": "The Aristotle Preservation Project",
+      "context": "While Europe sleeps, Baghdad translates the Greeks. They reconcile the Quran with Aristotelian logic.",
+      "keyConflict": null,
+      "keyConcept": "The \"Commentator\" (Averroes)",
+      "audioFile": "ep012.mp3"
+    },
+    {
+      "id": 13,
+      "era": 1,
+      "title": "Anselm & Maimonides",
+      "focus": "Proving God",
+      "context": "High Middle Ages. The intellectual project shifts to ontological proofs of God's existence.",
+      "keyConflict": null,
+      "keyConcept": "Faith seeking understanding",
+      "audioFile": "ep013.mp3"
+    },
+    {
+      "id": 14,
+      "era": 1,
+      "title": "Thomas Aquinas",
+      "focus": "The Summa Theologica",
+      "context": "The height of Scholasticism. Aquinas creates the massive synthesis of Catholic Dogma and Aristotelian Science.",
+      "keyConflict": null,
+      "keyConcept": "Natural Law",
+      "audioFile": "ep014.mp3"
+    },
+    {
+      "id": 15,
+      "era": 1,
+      "title": "William of Ockham",
+      "focus": "The Razor & Nominalism",
+      "context": "Late Middle Ages. The synthesis begins to crack. Ockham separates faith from reason and simplifies the universe.",
+      "keyConflict": null,
+      "keyConcept": "Ockham's Razor (Do not multiply entities beyond necessity)",
+      "audioFile": "ep015.mp3"
+    },
+    {
+      "id": 16,
+      "era": 1,
+      "title": "Niccolo Machiavelli",
+      "focus": "Power & Realpolitik",
+      "context": "Renaissance Florence. The Medicis and Borgias. Machiavelli looks at politics as it is, not as it ought to be.",
+      "keyConflict": null,
+      "keyConcept": "Virtu (boldness/skill) vs. Fortuna (luck)",
+      "audioFile": "ep016.mp3"
+    },
+    {
+      "id": 17,
+      "era": 1,
+      "title": "Michel de Montaigne",
+      "focus": "The Invention of the Self",
+      "context": "The French Wars of Religion. Amidst the slaughter, Montaigne retreats to his tower to write essays about... himself.",
+      "keyConflict": null,
+      "keyConcept": "\"Que sais-je?\" (What do I know?)",
+      "audioFile": "ep017.mp3"
+    },
+    {
+      "id": 18,
+      "era": 1,
+      "title": "Francis Bacon & Galileo",
+      "focus": "The Scientific Revolution",
+      "context": "The early 1600s. The authority of the Church and Aristotle is shattered by the telescope and the induction method.",
+      "keyConflict": null,
+      "keyConcept": "Empiricism (Knowledge comes from sensory experience)",
+      "audioFile": "ep018.mp3"
+    },
+    {
+      "id": 19,
+      "era": 2,
+      "title": "Rene Descartes: Cogito Ergo Sum",
+      "focus": "The Reset Button on Knowledge",
+      "context": "Post-Reformation confusion. Descartes locks himself in a stove-heated room to doubt everything until he finds a single certainty.",
+      "keyConflict": null,
+      "keyConcept": "Cogito Ergo Sum (I think, therefore I am)",
+      "audioFile": "ep019.mp3"
+    },
+    {
+      "id": 20,
+      "era": 2,
+      "title": "Thomas Hobbes: Leviathan",
+      "focus": "Safety over Liberty",
+      "context": "The English Civil War. Hobbes sees the chaos of men without government and argues for an absolute sovereign.",
+      "keyConflict": null,
+      "keyConcept": "The State of Nature is \"nasty, brutish, and short\"",
+      "audioFile": "ep020.mp3"
+    },
+    {
+      "id": 21,
+      "era": 2,
+      "title": "Baruch Spinoza: Deus sive Natura",
+      "focus": "God is Nature",
+      "context": "The Dutch Golden Age. Spinoza is excommunicated for equating God with the mechanical universe, removing all personality from divinity.",
+      "keyConflict": null,
+      "keyConcept": "Pantheism / Determinism",
+      "audioFile": "ep021.mp3"
+    },
+    {
+      "id": 22,
+      "era": 2,
+      "title": "Gottfried Wilhelm Leibniz: The Monads",
+      "focus": "Optimism & Infinity",
+      "context": "The invention of Calculus. Leibniz argues that despite evil, God calculated the most optimal universe possible.",
+      "keyConflict": null,
+      "keyConcept": "The Best of All Possible Worlds",
+      "audioFile": "ep022.mp3"
+    },
+    {
+      "id": 23,
+      "era": 2,
+      "title": "John Locke: Empiricism & Rights",
+      "focus": "The Blank Slate",
+      "context": "The Glorious Revolution. Locke argues we are born knowing nothing, and that government is a revocable contract.",
+      "keyConflict": null,
+      "keyConcept": "Tabula Rasa",
+      "audioFile": "ep023.mp3"
+    },
+    {
+      "id": 24,
+      "era": 2,
+      "title": "George Berkeley: Idealism",
+      "focus": "To be is to be perceived",
+      "context": "Early 18th Century. A reaction against materialism; Berkeley argues matter doesn't exist, only God's perception of it.",
+      "keyConflict": null,
+      "keyConcept": "Esse est percipi",
+      "audioFile": "ep024.mp3"
+    },
+    {
+      "id": 25,
+      "era": 2,
+      "title": "David Hume I: The Skeptic",
+      "focus": "Destruction of Cause and Effect",
+      "context": "The Scottish Enlightenment. Hume wakes Kant from his \"dogmatic slumber\" by showing we can't prove the sun will rise tomorrow.",
+      "keyConflict": null,
+      "keyConcept": "The Problem of Induction",
+      "audioFile": "ep025.mp3"
+    },
+    {
+      "id": 26,
+      "era": 2,
+      "title": "David Hume II: The Is-Ought Problem",
+      "focus": "The limit of Reason",
+      "context": "A challenge to moralists. Hume argues you cannot derive moral duties (ought) from descriptions of nature (is).",
+      "keyConflict": null,
+      "keyConcept": "The Naturalistic Fallacy (precursor)",
+      "audioFile": "ep026.mp3"
+    },
+    {
+      "id": 27,
+      "era": 2,
+      "title": "Jean-Jacques Rousseau I: The Noble Savage",
+      "focus": "Civilization as corruption",
+      "context": "Pre-Revolution France. Rousseau flips the narrative: nature is good; society ruins us.",
+      "keyConflict": null,
+      "keyConcept": "Amour-propre (vanity) vs. Amour de soi (self-love)",
+      "audioFile": "ep027.mp3"
+    },
+    {
+      "id": 28,
+      "era": 2,
+      "title": "Jean-Jacques Rousseau II: The Social Contract",
+      "focus": "The General Will",
+      "context": "Providing the blueprint for the French Revolution. Man is born free, but everywhere is in chains.",
+      "keyConflict": null,
+      "keyConcept": "Forcing people to be free",
+      "audioFile": "ep028.mp3"
+    },
+    {
+      "id": 29,
+      "era": 2,
+      "title": "Adam Smith: The Wealth of Nations",
+      "focus": "The Invisible Hand",
+      "context": "The dawn of Industrial Capitalism. Smith describes how individual selfishness can lead to collective good.",
+      "keyConflict": null,
+      "keyConcept": "Division of Labor",
+      "audioFile": "ep029.mp3"
+    },
+    {
+      "id": 30,
+      "era": 2,
+      "title": "Mary Wollstonecraft: Vindication of the Rights of Woman",
+      "focus": "The first feminist manifesto",
+      "context": "The French Revolution. Wollstonecraft asks: if we are freeing men from kings, why are women still slaves to men?",
+      "keyConflict": null,
+      "keyConcept": "Educated virtue",
+      "audioFile": "ep030.mp3"
+    },
+    {
+      "id": 31,
+      "era": 2,
+      "title": "Immanuel Kant I: Critique of Pure Reason",
+      "focus": "The Filter of the Mind",
+      "context": "The synthesis of Rationalism and Empiricism. Kant argues we can never know the world-in-itself, only the world as our mind structures it.",
+      "keyConflict": null,
+      "keyConcept": "The Noumena vs. Phenomena",
+      "audioFile": "ep031.mp3"
+    },
+    {
+      "id": 32,
+      "era": 2,
+      "title": "Immanuel Kant II: The Categorical Imperative",
+      "focus": "Duty Ethics",
+      "context": "Secular morality. Kant tries to build an absolute morality without using religion.",
+      "keyConflict": null,
+      "keyConcept": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
+      "audioFile": "ep032.mp3"
+    },
+    {
+      "id": 33,
+      "era": 2,
+      "title": "Jeremy Bentham: Utilitarianism",
+      "focus": "The Calculus of Pleasure",
+      "context": "Social Reform. Bentham creates a mathematical formula for ethics: maximize pleasure, minimize pain.",
+      "keyConflict": null,
+      "keyConcept": "The Panopticon",
+      "audioFile": "ep033.mp3"
+    },
+    {
+      "id": 34,
+      "era": 3,
+      "title": "G.W.F. Hegel I: The Dialectic",
+      "focus": "History has a direction",
+      "context": "Napoleon is marching across Europe. Hegel sees history not as random, but as the unfolding of freedom.",
+      "keyConflict": null,
+      "keyConcept": "Thesis-Antithesis-Synthesis (Aufheben)",
+      "audioFile": "ep034.mp3"
+    },
+    {
+      "id": 35,
+      "era": 3,
+      "title": "G.W.F. Hegel II: The Master-Slave Dialectic",
+      "focus": "Recognition",
+      "context": "Defining self-consciousness. We only exist if someone else acknowledges us.",
+      "keyConflict": null,
+      "keyConcept": "The struggle for recognition",
+      "audioFile": "ep035.mp3"
+    },
+    {
+      "id": 36,
+      "era": 3,
+      "title": "Arthur Schopenhauer: The World as Will",
+      "focus": "Pessimism & Boredom",
+      "context": "Post-Napoleonic disillusionment. Schopenhauer argues reality is a blind, insatiable striving force.",
+      "keyConflict": null,
+      "keyConcept": "Life oscillates between pain and boredom",
+      "audioFile": "ep036.mp3"
+    },
+    {
+      "id": 37,
+      "era": 3,
+      "title": "Fyodor Dostoevsky: Notes from Underground",
+      "focus": "Spite & Freedom",
+      "context": "Tsarist Russia. A rebellion against rational utopias; the Underground Man would rather suffer than be a \"piano key.\"",
+      "keyConflict": null,
+      "keyConcept": "Irrational freedom",
+      "audioFile": "ep037.mp3"
+    },
+    {
+      "id": 38,
+      "era": 3,
+      "title": "Max Stirner: The Ego and Its Own",
+      "focus": "Radical Anarchism",
+      "context": "The Young Hegelians. Stirner rejects God, State, and even \"Humanity\" as \"spooks\" haunting the mind.",
+      "keyConflict": null,
+      "keyConcept": "The Spook (Spuk)",
+      "audioFile": "ep038.mp3"
+    },
+    {
+      "id": 39,
+      "era": 3,
+      "title": "Soren Kierkegaard: The Leap of Faith",
+      "focus": "Anxiety & The Individual",
+      "context": "The complacent Danish Church. Kierkegaard attacks \"Christendom\" to save Christianity.",
+      "keyConflict": null,
+      "keyConcept": "Subjectivity is Truth",
+      "audioFile": "ep039.mp3"
+    },
+    {
+      "id": 40,
+      "era": 3,
+      "title": "Karl Marx I: Dialectical Materialism",
+      "focus": "History is Class War",
+      "context": "The Industrial Revolution. Marx turns Hegel on his head: ideas don't drive history, economics does.",
+      "keyConflict": null,
+      "keyConcept": "Base and Superstructure",
+      "audioFile": "ep040.mp3"
+    },
+    {
+      "id": 41,
+      "era": 3,
+      "title": "Karl Marx II: Alienation & Commodity Fetishism",
+      "focus": "The worker lost in the machine",
+      "context": "The misery of the factory. Why do we treat things like people and people like things?",
+      "keyConflict": null,
+      "keyConcept": "Alienation from labor",
+      "audioFile": "ep041.mp3"
+    },
+    {
+      "id": 42,
+      "era": 3,
+      "title": "John Stuart Mill: On Liberty",
+      "focus": "The Harm Principle",
+      "context": "Victorian England. Mill tries to protect the eccentric individual from the \"tyranny of the majority.\"",
+      "keyConflict": null,
+      "keyConcept": "The marketplace of ideas",
+      "audioFile": "ep042.mp3"
+    },
+    {
+      "id": 43,
+      "era": 3,
+      "title": "Friedrich Nietzsche I: The Birth of Tragedy",
+      "focus": "Apollo vs. Dionysus",
+      "context": "A critique of dry rationality. We need the chaos of the festival to bear existence.",
+      "keyConflict": null,
+      "keyConcept": "Affirmation of life",
+      "audioFile": "ep043.mp3"
+    },
+    {
+      "id": 44,
+      "era": 3,
+      "title": "Friedrich Nietzsche II: The Death of God",
+      "focus": "The Crisis of Meaning",
+      "context": "The secularization of Europe. Nietzsche predicts the collapse of all values and the age of Nihilism.",
+      "keyConflict": null,
+      "keyConcept": "\"God is dead... and we have killed him.\"",
+      "audioFile": "ep044.mp3"
+    },
+    {
+      "id": 45,
+      "era": 3,
+      "title": "Friedrich Nietzsche III: The Ubermensch & Eternal Recurrence",
+      "focus": "Creating new values",
+      "context": "The answer to Nihilism. Could you live this life over and over again?",
+      "keyConflict": null,
+      "keyConcept": "Amor Fati (Love of Fate)",
+      "audioFile": "ep045.mp3"
+    },
+    {
+      "id": 46,
+      "era": 3,
+      "title": "Friedrich Nietzsche IV: Master & Slave Morality",
+      "focus": "The Genealogy of Morals",
+      "context": "Exploring the origin of \"Good\" and \"Evil.\" Christianity as a revenge plot by the weak against the strong.",
+      "keyConflict": null,
+      "keyConcept": "Ressentiment",
+      "audioFile": "ep046.mp3"
+    },
+    {
+      "id": 47,
+      "era": 3,
+      "title": "William James: Pragmatism",
+      "focus": "Truth is what works",
+      "context": "American Industrialism. Ideas are tools for navigating the world, not mirrors of reality.",
+      "keyConflict": null,
+      "keyConcept": "The Cash Value of Truth",
+      "audioFile": "ep047.mp3"
+    },
+    {
+      "id": 48,
+      "era": 3,
+      "title": "Charles Sanders Peirce: The Fixation of Belief",
+      "focus": "How we settle doubts",
+      "context": "The birth of Semiotics. Belief is just a rule for action.",
+      "keyConflict": null,
+      "keyConcept": "Fallibilism",
+      "audioFile": "ep048.mp3"
+    },
+    {
+      "id": 49,
+      "era": 3,
+      "title": "Sigmund Freud: The Unconscious",
+      "focus": "We are not masters in our own house",
+      "context": "Victorian repression. Freud discovers the dark basement of the mind.",
+      "keyConflict": null,
+      "keyConcept": "Id, Ego, Superego",
+      "audioFile": "ep049.mp3"
+    },
+    {
+      "id": 50,
+      "era": 3,
+      "title": "Carl Jung: The Archetypes",
+      "focus": "The Collective Unconscious",
+      "context": "Breaking with Freud. Jung argues myths are shared structures of the human psyche.",
+      "keyConflict": null,
+      "keyConcept": "The Shadow",
+      "audioFile": "ep050.mp3"
+    },
+    {
+      "id": 51,
+      "era": 3,
+      "title": "Henri Bergson: Time and Free Will",
+      "focus": "Time as Duration",
+      "context": "The mechanization of time. Bergson argues real time is a flow, not a clock tick.",
+      "keyConflict": null,
+      "keyConcept": "Elan vital (Vital force)",
+      "audioFile": "ep051.mp3"
+    },
+    {
+      "id": 52,
+      "era": 4,
+      "title": "W.E.B. Du Bois: The Souls of Black Folk",
+      "focus": "Double Consciousness",
+      "context": "Jim Crow America. The psychological toll of viewing oneself through the eyes of a racist society.",
+      "keyConflict": null,
+      "keyConcept": "The Veil",
+      "audioFile": "ep052.mp3"
+    },
+    {
+      "id": 53,
+      "era": 4,
+      "title": "John Dewey: Democracy and Education",
+      "focus": "Learning by Doing",
+      "context": "American Progressive Era. Education is not preparation for life; it is life itself.",
+      "keyConflict": null,
+      "keyConcept": "Instrumentalism",
+      "audioFile": "ep053.mp3"
+    },
+    {
+      "id": 54,
+      "era": 4,
+      "title": "Alfred North Whitehead: Process and Reality",
+      "focus": "Reality is an event, not a thing",
+      "context": "Quantum Physics. Whitehead tries to metaphysicalize relativity.",
+      "keyConflict": null,
+      "keyConcept": "Process Philosophy",
+      "audioFile": "ep054.mp3"
+    },
+    {
+      "id": 55,
+      "era": 4,
+      "title": "Gottlob Frege: Sense vs. Reference",
+      "focus": "The birth of Analytic Philosophy",
+      "context": "Cleaning up language. The Morning Star and the Evening Star are the same object, but different \"senses.\"",
+      "keyConflict": null,
+      "keyConcept": "Logicism",
+      "audioFile": "ep055.mp3"
+    },
+    {
+      "id": 56,
+      "era": 4,
+      "title": "G.E. Moore: The Naturalistic Fallacy",
+      "focus": "Good is indefinable",
+      "context": "Reaction against Idealism. You can't define \"Good\" in terms of natural properties (like pleasure).",
+      "keyConflict": null,
+      "keyConcept": "The Open Question Argument",
+      "audioFile": "ep056.mp3"
+    },
+    {
+      "id": 57,
+      "era": 4,
+      "title": "Bertrand Russell I: Logicism",
+      "focus": "Reducing Math to Logic",
+      "context": "The quest for certainty. Russell tries to prove 1+1=2 using pure logic.",
+      "keyConflict": null,
+      "keyConcept": "Russell's Paradox",
+      "audioFile": "ep057.mp3"
+    },
+    {
+      "id": 58,
+      "era": 4,
+      "title": "Bertrand Russell II: On Denoting",
+      "focus": "The current King of France is bald",
+      "context": "Solving linguistic puzzles. How can we talk about things that don't exist?",
+      "keyConflict": null,
+      "keyConcept": "Definite Descriptions",
+      "audioFile": "ep058.mp3"
+    },
+    {
+      "id": 59,
+      "era": 4,
+      "title": "Ludwig Wittgenstein I: Tractatus",
+      "focus": "Silence & Pictures",
+      "context": "WWI Trenches. Wittgenstein writes a book to solve all philosophy. \"Whereof one cannot speak, thereof one must be silent.\"",
+      "keyConflict": null,
+      "keyConcept": "Picture Theory of Language",
+      "audioFile": "ep059.mp3"
+    },
+    {
+      "id": 60,
+      "era": 4,
+      "title": "The Vienna Circle: Logical Positivism",
+      "focus": "Science is the only truth",
+      "context": "Interwar Vienna. Attempting to banish metaphysics as \"nonsense.\"",
+      "keyConflict": null,
+      "keyConcept": "The Verification Principle",
+      "audioFile": "ep060.mp3"
+    },
+    {
+      "id": 61,
+      "era": 4,
+      "title": "Ludwig Wittgenstein II: Philosophical Investigations",
+      "focus": "Language Games",
+      "context": "Post-WWII Cambridge. Wittgenstein destroys his own earlier work. Meaning is use, not definition.",
+      "keyConflict": null,
+      "keyConcept": "The Beetle in the Box",
+      "audioFile": "ep061.mp3"
+    },
+    {
+      "id": 62,
+      "era": 4,
+      "title": "Edmund Husserl: Phenomenology",
+      "focus": "Back to the things themselves",
+      "context": "Pre-WWI. Husserl suspends scientific assumptions to describe pure experience.",
+      "keyConflict": null,
+      "keyConcept": "Intentionality (All consciousness is consciousness of something)",
+      "audioFile": "ep062.mp3"
+    },
+    {
+      "id": 63,
+      "era": 4,
+      "title": "Martin Heidegger I: Being and Time",
+      "focus": "Dasein (Being-there)",
+      "context": "1927 Germany. Asking the forgotten question: What does it mean to be?",
+      "keyConflict": null,
+      "keyConcept": "Being-toward-death",
+      "audioFile": "ep063.mp3"
+    },
+    {
+      "id": 64,
+      "era": 4,
+      "title": "Martin Heidegger II: Technology",
+      "focus": "The Danger",
+      "context": "The Atomic Age. Technology is not a tool; it is a way of revealing the world as \"standing reserve\" (resources to be exploited).",
+      "keyConflict": null,
+      "keyConcept": "Enframing (Gestell)",
+      "audioFile": "ep064.mp3"
+    },
+    {
+      "id": 65,
+      "era": 4,
+      "title": "Carl Schmitt: The Political",
+      "focus": "Friend vs. Enemy",
+      "context": "The failure of Weimar. Politics is not debate; it is distinguishing who you are willing to kill.",
+      "keyConflict": null,
+      "keyConcept": "The Sovereign is he who decides on the exception",
+      "audioFile": "ep065.mp3"
+    },
+    {
+      "id": 66,
+      "era": 4,
+      "title": "Jean-Paul Sartre I: Existence Precedes Essence",
+      "focus": "Radical Freedom",
+      "context": "Nazi-occupied Paris. We have no \"nature\"; we create ourselves through choices.",
+      "keyConflict": null,
+      "keyConcept": "Condemned to be free",
+      "audioFile": "ep066.mp3"
+    },
+    {
+      "id": 67,
+      "era": 4,
+      "title": "Jean-Paul Sartre II: Bad Faith",
+      "focus": "Lying to yourself",
+      "context": "The Waiter in the Cafe. Pretending you have no choice is the ultimate sin.",
+      "keyConflict": null,
+      "keyConcept": "The Look (Hell is other people)",
+      "audioFile": "ep067.mp3"
+    },
+    {
+      "id": 68,
+      "era": 4,
+      "title": "Simone de Beauvoir: The Second Sex",
+      "focus": "One is not born a woman",
+      "context": "1949. The foundation of modern feminism. Woman is defined as the \"Other\" to man.",
+      "keyConflict": null,
+      "keyConcept": "Immanence vs. Transcendence",
+      "audioFile": "ep068.mp3"
+    },
+    {
+      "id": 69,
+      "era": 4,
+      "title": "Albert Camus: The Myth of Sisyphus",
+      "focus": "Absurdism",
+      "context": "WWII. The universe is silent, and we crave meaning. The conflict is the Absurd.",
+      "keyConflict": null,
+      "keyConcept": "One must imagine Sisyphus happy",
+      "audioFile": "ep069.mp3"
+    },
+    {
+      "id": 70,
+      "era": 4,
+      "title": "Viktor Frankl: Man's Search for Meaning",
+      "focus": "Response to trauma",
+      "context": "The Holocaust. Even in Auschwitz, the last human freedom is to choose one's attitude.",
+      "keyConflict": null,
+      "keyConcept": "Logotherapy",
+      "audioFile": "ep070.mp3"
+    },
+    {
+      "id": 71,
+      "era": 4,
+      "title": "Simone Weil: Gravity and Grace",
+      "focus": "Attention",
+      "context": "The French Resistance. Spiritual mysticism meeting political activism.",
+      "keyConflict": null,
+      "keyConcept": "Decreation (Removing the self to let God in)",
+      "audioFile": "ep071.mp3"
+    },
+    {
+      "id": 72,
+      "era": 4,
+      "title": "Maurice Merleau-Ponty: The Body-Subject",
+      "focus": "Embodied Perception",
+      "context": "Breaking with Sartre. We don't have bodies; we are bodies.",
+      "keyConflict": null,
+      "keyConcept": "The Flesh",
+      "audioFile": "ep072.mp3"
+    },
+    {
+      "id": 73,
+      "era": 4,
+      "title": "Emmanuel Levinas: Ethics as First Philosophy",
+      "focus": "The Face of the Other",
+      "context": "Post-Holocaust. Ethics comes before ontology. The Other holds me hostage.",
+      "keyConflict": null,
+      "keyConcept": "Infinite Responsibility",
+      "audioFile": "ep073.mp3"
+    },
+    {
+      "id": 74,
+      "era": 4,
+      "title": "Antonio Gramsci: Cultural Hegemony",
+      "focus": "Why the revolution didn't happen",
+      "context": "Mussolini's prison. Capitalism survives not just by force, but by controlling the culture.",
+      "keyConflict": null,
+      "keyConcept": "Organic Intellectuals",
+      "audioFile": "ep074.mp3"
+    },
+    {
+      "id": 75,
+      "era": 4,
+      "title": "Walter Benjamin: Art in the Age of Mechanical Reproduction",
+      "focus": "The loss of the Aura",
+      "context": "The rise of cinema and photography. Mass production kills the \"here and now\" of art.",
+      "keyConflict": null,
+      "keyConcept": "The Aura",
+      "audioFile": "ep075.mp3"
+    },
+    {
+      "id": 76,
+      "era": 4,
+      "title": "Max Horkheimer & Adorno: Dialectic of Enlightenment",
+      "focus": "Why reason led to Auschwitz",
+      "context": "WWII Exile. The Enlightenment's drive to dominate nature turned into the domination of man.",
+      "keyConflict": null,
+      "keyConcept": "The Culture Industry",
+      "audioFile": "ep076.mp3"
+    },
+    {
+      "id": 77,
+      "era": 4,
+      "title": "Herbert Marcuse: One-Dimensional Man",
+      "focus": "The paralysis of criticism",
+      "context": "1960s Consumerism. We are so comfortable we have lost the ability to imagine a different world.",
+      "keyConflict": null,
+      "keyConcept": "Repressive Desublimation",
+      "audioFile": "ep077.mp3"
+    },
+    {
+      "id": 78,
+      "era": 4,
+      "title": "Hannah Arendt I: Origins of Totalitarianism",
+      "focus": "Terror as a system",
+      "context": "Analyzing Hitler and Stalin. How lonely masses are mobilized by ideology.",
+      "keyConflict": null,
+      "keyConcept": "The destruction of the private sphere",
+      "audioFile": "ep078.mp3"
+    },
+    {
+      "id": 79,
+      "era": 4,
+      "title": "Hannah Arendt II: The Banality of Evil",
+      "focus": "Eichmann in Jerusalem",
+      "context": "1961 Trial. Evil is not demonic; it is thoughtlessness and bureaucracy.",
+      "keyConflict": null,
+      "keyConcept": "Thinking as a moral duty",
+      "audioFile": "ep079.mp3"
+    },
+    {
+      "id": 80,
+      "era": 4,
+      "title": "Karl Popper: The Open Society",
+      "focus": "The Paradox of Tolerance",
+      "context": "WWII. Attacking Plato, Hegel, and Marx as enemies of freedom.",
+      "keyConflict": null,
+      "keyConcept": "Falsification",
+      "audioFile": "ep080.mp3"
+    },
+    {
+      "id": 81,
+      "era": 4,
+      "title": "Ayn Rand: Objectivism",
+      "focus": "The Virtue of Selfishness",
+      "context": "Cold War. A radical defense of capitalism and individualism against collectivism.",
+      "keyConflict": null,
+      "keyConcept": "Rational Egoism",
+      "audioFile": "ep081.mp3"
+    },
+    {
+      "id": 82,
+      "era": 4,
+      "title": "C.S. Lewis: The Abolition of Man",
+      "focus": "The Tao",
+      "context": "Educational reform. Warning that debunking traditional values will produce \"Men without Chests.\"",
+      "keyConflict": null,
+      "keyConcept": "Objective Value",
+      "audioFile": "ep082.mp3"
+    },
+    {
+      "id": 83,
+      "era": 5,
+      "title": "Friedrich Hayek: The Road to Serfdom",
+      "focus": "The Knowledge Problem",
+      "context": "The rise of Central Planning. No government can know enough to run an economy.",
+      "keyConflict": null,
+      "keyConcept": "Spontaneous Order",
+      "audioFile": "ep083.mp3"
+    },
+    {
+      "id": 84,
+      "era": 5,
+      "title": "W.V.O. Quine: Two Dogmas of Empiricism",
+      "focus": "The Web of Belief",
+      "context": "Mid-century Analytic. Debunking the split between \"facts\" and \"definitions.\"",
+      "keyConflict": null,
+      "keyConcept": "Ontological Relativity",
+      "audioFile": "ep084.mp3"
+    },
+    {
+      "id": 85,
+      "era": 5,
+      "title": "J.L. Austin: Speech Acts",
+      "focus": "Doing things with words",
+      "context": "Oxford Ordinary Language. Language isn't just descriptive; it's performative (e.g., \"I do\" at a wedding).",
+      "keyConflict": null,
+      "keyConcept": "Performativity",
+      "audioFile": "ep085.mp3"
+    },
+    {
+      "id": 86,
+      "era": 5,
+      "title": "Gilbert Ryle: The Ghost in the Machine",
+      "focus": "Against Cartesian Dualism",
+      "context": "Behaviorism. The mind is not a ghost inside a body-machine.",
+      "keyConflict": null,
+      "keyConcept": "Category Mistake",
+      "audioFile": "ep086.mp3"
+    },
+    {
+      "id": 87,
+      "era": 5,
+      "title": "H.L.A. Hart: Positivist Law",
+      "focus": "Law as Rules",
+      "context": "Legal Philosophy. Separating law from morality.",
+      "keyConflict": null,
+      "keyConcept": "Primary vs. Secondary Rules",
+      "audioFile": "ep087.mp3"
+    },
+    {
+      "id": 88,
+      "era": 5,
+      "title": "Iris Murdoch: The Sovereignty of Good",
+      "focus": "Unselfing",
+      "context": "Against Existentialism. Moral life is about seeing reality clearly, not just choosing.",
+      "keyConflict": null,
+      "keyConcept": "The Good",
+      "audioFile": "ep088.mp3"
+    },
+    {
+      "id": 89,
+      "era": 5,
+      "title": "Thomas Kuhn: Structure of Scientific Revolutions",
+      "focus": "Paradigm Shifts",
+      "context": "History of Science. Science doesn't progress linearly; it jumps.",
+      "keyConflict": null,
+      "keyConcept": "Incommensurability",
+      "audioFile": "ep089.mp3"
+    },
+    {
+      "id": 90,
+      "era": 5,
+      "title": "Paul Feyerabend: Against Method",
+      "focus": "Epistemological Anarchism",
+      "context": "1970s. \"Anything goes\" in science.",
+      "keyConflict": null,
+      "keyConcept": "Separation of Science and State",
+      "audioFile": "ep090.mp3"
+    },
+    {
+      "id": 91,
+      "era": 5,
+      "title": "Marshall McLuhan: The Medium is the Massage",
+      "focus": "Media Ecology",
+      "context": "The TV Age. The tool shapes us more than the content of the tool.",
+      "keyConflict": null,
+      "keyConcept": "Global Village",
+      "audioFile": "ep091.mp3"
+    },
+    {
+      "id": 92,
+      "era": 5,
+      "title": "Guy Debord: The Society of the Spectacle",
+      "focus": "Life as a movie",
+      "context": "Situationist International / May 1968. Capital accumulates until it becomes an image.",
+      "keyConflict": null,
+      "keyConcept": "The Spectacle",
+      "audioFile": "ep092.mp3"
+    },
+    {
+      "id": 93,
+      "era": 5,
+      "title": "Ferdinand de Saussure: Structural Linguistics",
+      "focus": "Signifier vs. Signified",
+      "context": "The root of Structuralism. Meaning is difference within a system.",
+      "keyConflict": null,
+      "keyConcept": "The Sign is arbitrary",
+      "audioFile": "ep093.mp3"
+    },
+    {
+      "id": 94,
+      "era": 5,
+      "title": "Claude Levi-Strauss: Structural Anthropology",
+      "focus": "The Universal Myths",
+      "context": "Studying tribes to understand the Western mind. Culture is a language.",
+      "keyConflict": null,
+      "keyConcept": "Bricolage",
+      "audioFile": "ep094.mp3"
+    },
+    {
+      "id": 95,
+      "era": 5,
+      "title": "Jacques Lacan I: The Mirror Stage",
+      "focus": "The formation of the Ego",
+      "context": "Freudian revival. The \"I\" is formed by misrecognizing oneself in a mirror.",
+      "keyConflict": null,
+      "keyConcept": "The Imaginary",
+      "audioFile": "ep095.mp3"
+    },
+    {
+      "id": 96,
+      "era": 5,
+      "title": "Jacques Lacan II: The Big Other",
+      "focus": "Desire is the desire of the Other",
+      "context": "The Symbolic Order. We are spoken by language.",
+      "keyConflict": null,
+      "keyConcept": "The Real (that which resists symbolization)",
+      "audioFile": "ep096.mp3"
+    },
+    {
+      "id": 97,
+      "era": 5,
+      "title": "Roland Barthes: Mythologies",
+      "focus": "Decoding Pop Culture",
+      "context": "Wrestling, Soap, and Wine. Everything is a sign system.",
+      "keyConflict": null,
+      "keyConcept": "Death of the Author",
+      "audioFile": "ep097.mp3"
+    },
+    {
+      "id": 98,
+      "era": 5,
+      "title": "Michel Foucault I: Madness & Civilization",
+      "focus": "The history of exclusion",
+      "context": "Anti-Psychiatry. Madness is a social construct used to define \"Reason.\"",
+      "keyConflict": null,
+      "keyConcept": "The Great Confinement",
+      "audioFile": "ep098.mp3"
+    },
+    {
+      "id": 99,
+      "era": 5,
+      "title": "Michel Foucault II: Discipline & Punish",
+      "focus": "The Panopticon",
+      "context": "The Surveillance State. Power moved from the King's sword to the Warden's gaze.",
+      "keyConflict": null,
+      "keyConcept": "Docile Bodies",
+      "audioFile": "ep099.mp3"
+    },
+    {
+      "id": 100,
+      "era": 5,
+      "title": "Michel Foucault III: Biopolitics",
+      "focus": "Managing populations",
+      "context": "The birth of statistics and public health. Power over \"Life\" itself.",
+      "keyConflict": null,
+      "keyConcept": "Biopower",
+      "audioFile": "ep100.mp3"
+    },
+    {
+      "id": 101,
+      "era": 5,
+      "title": "Jacques Derrida I: Deconstruction",
+      "focus": "There is no outside-text",
+      "context": "1967. Dismantling Western Metaphysics by showing its internal contradictions.",
+      "keyConflict": null,
+      "keyConcept": "Differance",
+      "audioFile": "ep101.mp3"
+    },
+    {
+      "id": 102,
+      "era": 5,
+      "title": "Jacques Derrida II: Specters of Marx",
+      "focus": "Hauntology",
+      "context": "Fall of the Berlin Wall. The past haunts the present; communism isn't dead, it's a ghost.",
+      "keyConflict": null,
+      "keyConcept": "Hauntology",
+      "audioFile": "ep102.mp3"
+    },
+    {
+      "id": 103,
+      "era": 5,
+      "title": "Gilles Deleuze I: Difference and Repetition",
+      "focus": "Philosophy of the Event",
+      "context": "Against Plato. Difference is primary; identity is secondary.",
+      "keyConflict": null,
+      "keyConcept": "Becoming",
+      "audioFile": "ep103.mp3"
+    },
+    {
+      "id": 104,
+      "era": 5,
+      "title": "Gilles Deleuze II: The Rhizome",
+      "focus": "Network vs. Tree",
+      "context": "With Guattari. Thinking in webs, not hierarchies.",
+      "keyConflict": null,
+      "keyConcept": "Deterritorialization",
+      "audioFile": "ep104.mp3"
+    },
+    {
+      "id": 105,
+      "era": 5,
+      "title": "Jean Baudrillard I: The System of Objects",
+      "focus": "Consumption as Language",
+      "context": "1968. We consume signs, not utility.",
+      "keyConflict": null,
+      "keyConcept": "Sign-Value",
+      "audioFile": "ep105.mp3"
+    },
+    {
+      "id": 106,
+      "era": 5,
+      "title": "Jean Baudrillard II: Simulacra",
+      "focus": "The map precedes the territory",
+      "context": "The Matrix Era. Reality has been replaced by the simulation.",
+      "keyConflict": null,
+      "keyConcept": "Hyperreality",
+      "audioFile": "ep106.mp3"
+    },
+    {
+      "id": 107,
+      "era": 5,
+      "title": "Jean-Francois Lyotard: The Postmodern Condition",
+      "focus": "The End of Grand Narratives",
+      "context": "The Information Age. We no longer believe in \"Progress\" or \"Emancipation.\"",
+      "keyConflict": null,
+      "keyConcept": "Paralogy",
+      "audioFile": "ep107.mp3"
+    },
+    {
+      "id": 108,
+      "era": 5,
+      "title": "Jurgen Habermas: Communicative Action",
+      "focus": "Saving Reason",
+      "context": "Defending the Enlightenment against Postmodernists. The Ideal Speech Situation.",
+      "keyConflict": null,
+      "keyConcept": "The Public Sphere",
+      "audioFile": "ep108.mp3"
+    },
+    {
+      "id": 109,
+      "era": 5,
+      "title": "Pierre Bourdieu: Distinction",
+      "focus": "Taste is Class",
+      "context": "Sociology of culture. Your \"personal taste\" is just your class position.",
+      "keyConflict": null,
+      "keyConcept": "Cultural Capital / Habitus",
+      "audioFile": "ep109.mp3"
+    },
+    {
+      "id": 110,
+      "era": 5,
+      "title": "Ernest Becker: The Denial of Death",
+      "focus": "Terror Management Theory",
+      "context": "Psychology. Civilization is a defense mechanism against mortality.",
+      "keyConflict": null,
+      "keyConcept": "Immortality Projects",
+      "audioFile": "ep110.mp3"
+    },
+    {
+      "id": 111,
+      "era": 5,
+      "title": "Erich Fromm: Escape from Freedom",
+      "focus": "Authoritarian Personality",
+      "context": "Why we choose dictators. Freedom is terrifying.",
+      "keyConflict": null,
+      "keyConcept": "Automaton Conformity",
+      "audioFile": "ep111.mp3"
+    },
+    {
+      "id": 112,
+      "era": 5,
+      "title": "John Rawls: A Theory of Justice",
+      "focus": "Fairness as Justice",
+      "context": "1971. Reviving Political Philosophy. Design a society without knowing who you will be in it.",
+      "keyConflict": null,
+      "keyConcept": "The Veil of Ignorance",
+      "audioFile": "ep112.mp3"
+    },
+    {
+      "id": 113,
+      "era": 5,
+      "title": "Robert Nozick: Anarchy, State, and Utopia",
+      "focus": "Libertarianism",
+      "context": "Response to Rawls. Taxation is forced labor.",
+      "keyConflict": null,
+      "keyConcept": "Entitlement Theory",
+      "audioFile": "ep113.mp3"
+    },
+    {
+      "id": 114,
+      "era": 5,
+      "title": "Alasdair MacIntyre: After Virtue",
+      "focus": "Return to Aristotle",
+      "context": "Moral chaos. We have lost the language of morality; we need tradition.",
+      "keyConflict": null,
+      "keyConcept": "Narrative Unity of a Life",
+      "audioFile": "ep114.mp3"
+    },
+    {
+      "id": 115,
+      "era": 5,
+      "title": "Michael Sandel: The Unencumbered Self",
+      "focus": "Communitarianism",
+      "context": "Critique of Liberalism. You cannot be a neutral self; you are constituted by your community.",
+      "keyConflict": null,
+      "keyConcept": "Encumbered Self",
+      "audioFile": "ep115.mp3"
+    },
+    {
+      "id": 116,
+      "era": 5,
+      "title": "Charles Taylor: Sources of the Self",
+      "focus": "The Modern Identity",
+      "context": "History of subjectivity. How we became \"individuals.\"",
+      "keyConflict": null,
+      "keyConcept": "Authenticity",
+      "audioFile": "ep116.mp3"
+    },
+    {
+      "id": 117,
+      "era": 5,
+      "title": "Christopher Lasch: The Culture of Narcissism",
+      "focus": "The therapeutic society",
+      "context": "The \"Me\" Decade (70s). The shift from politics to self-help.",
+      "keyConflict": null,
+      "keyConcept": "The Narcissistic Personality",
+      "audioFile": "ep117.mp3"
+    },
+    {
+      "id": 118,
+      "era": 5,
+      "title": "Richard Rorty: Mirror of Nature",
+      "focus": "Neo-Pragmatism",
+      "context": "Giving up on \"Truth\" with a capital T. Philosophy is just conversation.",
+      "keyConflict": null,
+      "keyConcept": "Irony",
+      "audioFile": "ep118.mp3"
+    },
+    {
+      "id": 119,
+      "era": 5,
+      "title": "Hilary Putnam: Brains in a Vat",
+      "focus": "Externalism",
+      "context": "Semantic externalism. \"Meanings just ain't in the head.\"",
+      "keyConflict": null,
+      "keyConcept": "Twin Earth",
+      "audioFile": "ep119.mp3"
+    },
+    {
+      "id": 120,
+      "era": 5,
+      "title": "Saul Kripke: Naming and Necessity",
+      "focus": "Rigid Designators",
+      "context": "Modal Logic. Water is H2O in all possible worlds.",
+      "keyConflict": null,
+      "keyConcept": "A Posteriori Necessity",
+      "audioFile": "ep120.mp3"
+    },
+    {
+      "id": 121,
+      "era": 5,
+      "title": "Donald Davidson: Anomalous Monism",
+      "focus": "Mental Events",
+      "context": "Philosophy of Mind. Mental events are physical, but not governed by strict laws.",
+      "keyConflict": null,
+      "keyConcept": "Principle of Charity",
+      "audioFile": "ep121.mp3"
+    },
+    {
+      "id": 122,
+      "era": 5,
+      "title": "Bernard Williams: Moral Luck",
+      "focus": "Against Kant",
+      "context": "Ethics. Sometimes whether you are \"good\" depends on luck (e.g., the drunk driver who hits no one).",
+      "keyConflict": null,
+      "keyConcept": "Gauguin's choice",
+      "audioFile": "ep122.mp3"
+    },
+    {
+      "id": 123,
+      "era": 5,
+      "title": "Thomas Nagel: The View From Nowhere",
+      "focus": "Subjective vs. Objective",
+      "context": "Consciousness. The tension between living a life and viewing it from the outside.",
+      "keyConflict": null,
+      "keyConcept": "What is it like to be a bat?",
+      "audioFile": "ep123.mp3"
+    },
+    {
+      "id": 124,
+      "era": 5,
+      "title": "Frantz Fanon: The Wretched of the Earth",
+      "focus": "Decolonizing the mind",
+      "context": "Algerian War. Violence as a cleansing force for the colonized.",
+      "keyConflict": null,
+      "keyConcept": "The Colonial Gaze",
+      "audioFile": "ep124.mp3"
+    },
+    {
+      "id": 125,
+      "era": 5,
+      "title": "Edward Said: Orientalism",
+      "focus": "The West constructing the East",
+      "context": "1978. \"The Orient\" is a Western fantasy used to justify empire.",
+      "keyConflict": null,
+      "keyConcept": "The Othering of the East",
+      "audioFile": "ep125.mp3"
+    },
+    {
+      "id": 126,
+      "era": 5,
+      "title": "Noam Chomsky: Manufacturing Consent",
+      "focus": "The Propaganda Model",
+      "context": "Mass Media. How democracies control thought without force.",
+      "keyConflict": null,
+      "keyConcept": "Filters",
+      "audioFile": "ep126.mp3"
+    },
+    {
+      "id": 127,
+      "era": 5,
+      "title": "Paulo Freire: Pedagogy of the Oppressed",
+      "focus": "Education as Freedom",
+      "context": "Brazil. Against the \"Banking Model\" of education (depositing facts).",
+      "keyConflict": null,
+      "keyConcept": "Conscientization (Conscientizacao)",
+      "audioFile": "ep127.mp3"
+    },
+    {
+      "id": 128,
+      "era": 5,
+      "title": "Bell Hooks: Ain't I a Woman?",
+      "focus": "Intersectionality (Proto)",
+      "context": "Black Feminism. Critiquing white feminism for ignoring race and class.",
+      "keyConflict": null,
+      "keyConcept": "The Imperialist White Supremacist Capitalist Patriarchy",
+      "audioFile": "ep128.mp3"
+    },
+    {
+      "id": 129,
+      "era": 6,
+      "title": "Ivan Illich: Deschooling Society",
+      "focus": "Institutional Critique",
+      "context": "1970s Counterculture (influencing the 90s). Institutions create the needs they claim to satisfy.",
+      "keyConflict": null,
+      "keyConcept": "Radical Monopolies",
+      "audioFile": "ep129.mp3"
+    },
+    {
+      "id": 130,
+      "era": 6,
+      "title": "David Chalmers: The Hard Problem",
+      "focus": "The Zombie Argument",
+      "context": "1995. Why is there \"something it is like\" to be an information processor?",
+      "keyConflict": null,
+      "keyConcept": "The Hard Problem of Consciousness",
+      "audioFile": "ep130.mp3"
+    },
+    {
+      "id": 131,
+      "era": 6,
+      "title": "Daniel Dennett: Consciousness Explained",
+      "focus": "The Multiple Drafts Model",
+      "context": "Physicalism. Consciousness is an illusion; a \"user illusion\" of the brain.",
+      "keyConflict": null,
+      "keyConcept": "Cartesian Theater (denied)",
+      "audioFile": "ep131.mp3"
+    },
+    {
+      "id": 132,
+      "era": 6,
+      "title": "John Searle: The Chinese Room",
+      "focus": "Syntax is not Semantics",
+      "context": "AI Skepticism. A computer can simulate understanding without understanding.",
+      "keyConflict": null,
+      "keyConcept": "Strong AI vs. Weak AI",
+      "audioFile": "ep132.mp3"
+    },
+    {
+      "id": 133,
+      "era": 6,
+      "title": "Andy Clark: The Extended Mind",
+      "focus": "We are Cyborgs",
+      "context": "The Internet age. The mind is not in the skull; it spills out into our tools (notebooks, phones).",
+      "keyConflict": null,
+      "keyConcept": "Active Externalism",
+      "audioFile": "ep133.mp3"
+    },
+    {
+      "id": 134,
+      "era": 6,
+      "title": "Thomas Metzinger: The Ego Tunnel",
+      "focus": "The Self-Model",
+      "context": "Neuroscience. The \"Self\" is a simulation created by the brain to help the organism survive.",
+      "keyConflict": null,
+      "keyConcept": "Phenomenal Self-Model",
+      "audioFile": "ep134.mp3"
+    },
+    {
+      "id": 135,
+      "era": 6,
+      "title": "Philip Goff: Panpsychism",
+      "focus": "Galileo's Error",
+      "context": "Current revival. Consciousness is a fundamental property of matter, like mass.",
+      "keyConflict": null,
+      "keyConcept": "Panpsychism",
+      "audioFile": "ep135.mp3"
+    },
+    {
+      "id": 136,
+      "era": 6,
+      "title": "Judith Butler I: Gender Trouble",
+      "focus": "Performativity",
+      "context": "1990. Gender is not what you are; it is what you do.",
+      "keyConflict": null,
+      "keyConcept": "Gender Performativity",
+      "audioFile": "ep136.mp3"
+    },
+    {
+      "id": 137,
+      "era": 6,
+      "title": "Judith Butler II: Precarious Life",
+      "focus": "Grievability",
+      "context": "Post-9/11. Whose lives are considered \"grievable\" in war?",
+      "keyConflict": null,
+      "keyConcept": "Precarity",
+      "audioFile": "ep137.mp3"
+    },
+    {
+      "id": 138,
+      "era": 6,
+      "title": "Luce Irigaray: The Sex Which Is Not One",
+      "focus": "Phallogocentrism",
+      "context": "French Feminism. Western logic is male; women need a new language.",
+      "keyConflict": null,
+      "keyConcept": "Women on the Market",
+      "audioFile": "ep138.mp3"
+    },
+    {
+      "id": 139,
+      "era": 6,
+      "title": "Donna Haraway: A Cyborg Manifesto",
+      "focus": "Blurring Boundaries",
+      "context": "Technology & Feminism. We should embrace the cyborg to escape essentialism.",
+      "keyConflict": null,
+      "keyConcept": "The Cyborg",
+      "audioFile": "ep139.mp3"
+    },
+    {
+      "id": 140,
+      "era": 6,
+      "title": "Paul B. Preciado: Testo Junkie",
+      "focus": "Pharmacopornographic Era",
+      "context": "Trans Theory. Gender is regulated by hormones and pornography.",
+      "keyConflict": null,
+      "keyConcept": "Somatheque",
+      "audioFile": "ep140.mp3"
+    },
+    {
+      "id": 141,
+      "era": 6,
+      "title": "Gayatri Spivak: Can the Subaltern Speak?",
+      "focus": "Epistemic Violence",
+      "context": "Post-Colonial Studies. Western intellectuals cannot \"speak for\" the oppressed.",
+      "keyConflict": null,
+      "keyConcept": "Strategic Essentialism",
+      "audioFile": "ep141.mp3"
+    },
+    {
+      "id": 142,
+      "era": 6,
+      "title": "Homi K. Bhabha: The Location of Culture",
+      "focus": "Hybridity",
+      "context": "Globalization. Culture happens in the \"Third Space\" between colonizer and colonized.",
+      "keyConflict": null,
+      "keyConcept": "Mimicry",
+      "audioFile": "ep142.mp3"
+    },
+    {
+      "id": 143,
+      "era": 6,
+      "title": "Achille Mbembe: Necropolitics",
+      "focus": "The power to kill",
+      "context": "Post-Foucault. Sovereignty is now the power to dictate who may live and who must die.",
+      "keyConflict": null,
+      "keyConcept": "Death-Worlds",
+      "audioFile": "ep143.mp3"
+    },
+    {
+      "id": 144,
+      "era": 6,
+      "title": "Giorgio Agamben: Homo Sacer",
+      "focus": "Bare Life",
+      "context": "The Camp (Guantanamo). The person who can be killed but not sacrificed.",
+      "keyConflict": null,
+      "keyConcept": "State of Exception",
+      "audioFile": "ep144.mp3"
+    },
+    {
+      "id": 145,
+      "era": 6,
+      "title": "Roberto Esposito: Immunitas",
+      "focus": "Community vs. Immunity",
+      "context": "Biopolitics. Community is a debt; immunity is protection from that debt.",
+      "keyConflict": null,
+      "keyConcept": "Immunization paradigm",
+      "audioFile": "ep145.mp3"
+    },
+    {
+      "id": 146,
+      "era": 6,
+      "title": "Zygmunt Bauman: Liquid Modernity",
+      "focus": "Life in flux",
+      "context": "The 2000s. Structures are dissolving; relationships, jobs, and identities are fluid.",
+      "keyConflict": null,
+      "keyConcept": "Liquid Fear",
+      "audioFile": "ep146.mp3"
+    },
+    {
+      "id": 147,
+      "era": 6,
+      "title": "Slavoj Zizek I: The Sublime Object of Ideology",
+      "focus": "They know it, but they do it anyway",
+      "context": "1989. Ideology is not a belief; it's a practice (Cynical Reason).",
+      "keyConflict": null,
+      "keyConcept": "The Symptom",
+      "audioFile": "ep147.mp3"
+    },
+    {
+      "id": 148,
+      "era": 6,
+      "title": "Slavoj Zizek II: Welcome to the Desert of the Real",
+      "focus": "9/11 and Reality",
+      "context": "The War on Terror. We prefer the catastrophe in movies to the Real.",
+      "keyConflict": null,
+      "keyConcept": "The Passion for the Real",
+      "audioFile": "ep148.mp3"
+    },
+    {
+      "id": 149,
+      "era": 6,
+      "title": "Alain Badiou: Ethics",
+      "focus": "Fidelity to the Event",
+      "context": "Anti-Human Rights. Ethics is about staying true to a revolutionary rupture.",
+      "keyConflict": null,
+      "keyConcept": "The Event",
+      "audioFile": "ep149.mp3"
+    },
+    {
+      "id": 150,
+      "era": 6,
+      "title": "Jacques Ranciere: The Ignorant Schoolmaster",
+      "focus": "Intellectual Equality",
+      "context": "Education theory. Anyone can learn anything if they possess the will.",
+      "keyConflict": null,
+      "keyConcept": "Equality of Intelligence",
+      "audioFile": "ep150.mp3"
+    },
+    {
+      "id": 151,
+      "era": 6,
+      "title": "Bruno Latour I: We Have Never Been Modern",
+      "focus": "The Parliament of Things",
+      "context": "Ecology. The split between \"Nature\" and \"Society\" was a lie.",
+      "keyConflict": null,
+      "keyConcept": "Hybrids",
+      "audioFile": "ep151.mp3"
+    },
+    {
+      "id": 152,
+      "era": 6,
+      "title": "Bruno Latour II: Actor-Network Theory",
+      "focus": "Agency of objects",
+      "context": "STS. A door-closer has agency just like a human.",
+      "keyConflict": null,
+      "keyConcept": "Actant",
+      "audioFile": "ep152.mp3"
+    },
+    {
+      "id": 153,
+      "era": 6,
+      "title": "Peter Sloterdijk: Spheres",
+      "focus": "Immunological spaces",
+      "context": "Architecture of Being. Humans build bubbles (spheres) to survive.",
+      "keyConflict": null,
+      "keyConcept": "Anthropotechnics",
+      "audioFile": "ep153.mp3"
+    },
+    {
+      "id": 154,
+      "era": 6,
+      "title": "Paul Virilio: The Administration of Fear",
+      "focus": "Dromology (Logic of Speed)",
+      "context": "Instant warfare. Speed destroys democracy.",
+      "keyConflict": null,
+      "keyConcept": "The integral accident",
+      "audioFile": "ep154.mp3"
+    },
+    {
+      "id": 155,
+      "era": 6,
+      "title": "Fredric Jameson: Postmodernism",
+      "focus": "Cultural Logic of Late Capitalism",
+      "context": "The 90s. We have lost the ability to map our own world (Cognitive Mapping).",
+      "keyConflict": null,
+      "keyConcept": "Pastiche",
+      "audioFile": "ep155.mp3"
+    },
+    {
+      "id": 156,
+      "era": 6,
+      "title": "Mark Fisher: Capitalist Realism",
+      "focus": "The slow cancellation of the future",
+      "context": "2008 Crash. It is easier to imagine the end of the world than the end of capitalism.",
+      "keyConflict": null,
+      "keyConcept": "Hauntology (applied)",
+      "audioFile": "ep156.mp3"
+    },
+    {
+      "id": 157,
+      "era": 6,
+      "title": "Nick Land: Fanged Noumena",
+      "focus": "Accelerationism",
+      "context": "Cyberpunk philosophy. Capitalism is an AI from the future assembling itself.",
+      "keyConflict": null,
+      "keyConcept": "Hyperstition",
+      "audioFile": "ep157.mp3"
+    },
+    {
+      "id": 158,
+      "era": 6,
+      "title": "Sadie Plant: Zeros + Ones",
+      "focus": "Cyberfeminism",
+      "context": "The Web. Technology is female (weaving); the glitch is the liberation.",
+      "keyConflict": null,
+      "keyConcept": "The Matrix as Womb",
+      "audioFile": "ep158.mp3"
+    },
+    {
+      "id": 159,
+      "era": 6,
+      "title": "Quentin Meillassoux: After Finitude",
+      "focus": "Ancestrality",
+      "context": "Speculative Realism. Getting outside the human mind. The Arche-fossil proves reality existed before us.",
+      "keyConflict": null,
+      "keyConcept": "Correlationism",
+      "audioFile": "ep159.mp3"
+    },
+    {
+      "id": 160,
+      "era": 6,
+      "title": "Graham Harman: Object-Oriented Ontology",
+      "focus": "The withdrawal of objects",
+      "context": "OOO. Objects interact with each other regardless of humans.",
+      "keyConflict": null,
+      "keyConcept": "Vicarious Causation",
+      "audioFile": "ep160.mp3"
+    },
+    {
+      "id": 161,
+      "era": 6,
+      "title": "Timothy Morton: Hyperobjects",
+      "focus": "Things too big to see",
+      "context": "Global Warming. Climate Change is a Hyperobject -- viscous, non-local, and phasing.",
+      "keyConflict": null,
+      "keyConcept": "Dark Ecology",
+      "audioFile": "ep161.mp3"
+    },
+    {
+      "id": 162,
+      "era": 6,
+      "title": "Ray Brassier: Nihil Unbound",
+      "focus": "Enlightenment Nihilism",
+      "context": "Rationalism. Thinking is the destruction of the Manifest Image.",
+      "keyConflict": null,
+      "keyConcept": "The Trauma of Reason",
+      "audioFile": "ep162.mp3"
+    },
+    {
+      "id": 163,
+      "era": 6,
+      "title": "Peter Singer: Famine, Affluence, and Morality",
+      "focus": "Effective Altruism",
+      "context": "Global Poverty. If you don't save the drowning child, you are a monster.",
+      "keyConflict": null,
+      "keyConcept": "Speciesism",
+      "audioFile": "ep163.mp3"
+    },
+    {
+      "id": 164,
+      "era": 6,
+      "title": "Derek Parfit: Reasons and Persons",
+      "focus": "Personal Identity is a myth",
+      "context": "Future Ethics. We should care about our future selves like we care about others.",
+      "keyConflict": null,
+      "keyConcept": "The Teletransporter Paradox",
+      "audioFile": "ep164.mp3"
+    },
+    {
+      "id": 165,
+      "era": 6,
+      "title": "Martha Nussbaum: The Capability Approach",
+      "focus": "Human Flourishing",
+      "context": "Development Economics. Justice is not GDP; it's what people can actually do and be.",
+      "keyConflict": null,
+      "keyConcept": "Capabilities",
+      "audioFile": "ep165.mp3"
+    },
+    {
+      "id": 166,
+      "era": 6,
+      "title": "Amartya Sen: The Idea of Justice",
+      "focus": "Realization-focused comparison",
+      "context": "Against Rawls. Don't look for perfect justice; look for less injustice.",
+      "keyConflict": null,
+      "keyConcept": "Niti vs. Nyaya",
+      "audioFile": "ep166.mp3"
+    },
+    {
+      "id": 167,
+      "era": 6,
+      "title": "Peter Sloterdijk: You Must Change Your Life",
+      "focus": "Anthropotechnics",
+      "context": "Self-optimization. Religion is just a \"practice regime.\"",
+      "keyConflict": null,
+      "keyConcept": "Vertical Tension",
+      "audioFile": "ep167.mp3"
+    },
+    {
+      "id": 168,
+      "era": 6,
+      "title": "Emil Cioran: The Trouble With Being Born",
+      "focus": "Anti-natalism (Poetic)",
+      "context": "The ultimate pessimist. Existence is a flaw in the nothingness.",
+      "keyConflict": null,
+      "keyConcept": "The Inconvenience of Being",
+      "audioFile": "ep168.mp3"
+    },
+    {
+      "id": 169,
+      "era": 7,
+      "title": "Nick Bostrom: Superintelligence",
+      "focus": "Existential Risk",
+      "context": "The AI Boom. Creating a god that might be indifferent to us.",
+      "keyConflict": null,
+      "keyConcept": "Orthogonality Thesis (Intelligence does not equal Morality)",
+      "audioFile": "ep169.mp3"
+    },
+    {
+      "id": 170,
+      "era": 7,
+      "title": "Eliezer Yudkowsky: AI Alignment",
+      "focus": "The Paperclip Maximizer",
+      "context": "Rationality Community. One wrong variable and the AI destroys the universe.",
+      "keyConflict": null,
+      "keyConcept": "Friendly AI",
+      "audioFile": "ep170.mp3"
+    },
+    {
+      "id": 171,
+      "era": 7,
+      "title": "Stuart Russell: Human Compatible",
+      "focus": "Provably Beneficial AI",
+      "context": "AI Safety. Machines should be uncertain about human objectives.",
+      "keyConflict": null,
+      "keyConcept": "Inverse Reinforcement Learning",
+      "audioFile": "ep171.mp3"
+    },
+    {
+      "id": 172,
+      "era": 7,
+      "title": "David Chalmers: Reality+",
+      "focus": "Virtual Worlds are Real",
+      "context": "The Metaverse. Virtual reality is genuine reality, not an illusion.",
+      "keyConflict": null,
+      "keyConcept": "Virtual Realism",
+      "audioFile": "ep172.mp3"
+    },
+    {
+      "id": 173,
+      "era": 7,
+      "title": "Bernard Stiegler: Technics and Time",
+      "focus": "Epiphylogenesis",
+      "context": "Memory externalization. Technology isn't alien; it is the structure of human time.",
+      "keyConflict": null,
+      "keyConcept": "Grammatization",
+      "audioFile": "ep173.mp3"
+    },
+    {
+      "id": 174,
+      "era": 7,
+      "title": "Shoshana Zuboff: The Age of Surveillance Capitalism",
+      "focus": "Behavioral Futures Markets",
+      "context": "Big Tech. You are not the product; you are the carcass being mined for data.",
+      "keyConflict": null,
+      "keyConcept": "Instrumentarian Power",
+      "audioFile": "ep174.mp3"
+    },
+    {
+      "id": 175,
+      "era": 7,
+      "title": "Byung-Chul Han I: The Burnout Society",
+      "focus": "Self-Exploitation",
+      "context": "The Gig Economy. We don't need bosses; we slave-drive ourselves.",
+      "keyConflict": null,
+      "keyConcept": "The Achievement Subject",
+      "audioFile": "ep175.mp3"
+    },
+    {
+      "id": 176,
+      "era": 7,
+      "title": "Byung-Chul Han II: The Disappearance of Rituals",
+      "focus": "Loss of Community",
+      "context": "Social Media. We have communication without community.",
+      "keyConflict": null,
+      "keyConcept": "Ritual vs. Communication",
+      "audioFile": "ep176.mp3"
+    },
+    {
+      "id": 177,
+      "era": 7,
+      "title": "Franco \"Bifo\" Berardi: The Soul at Work",
+      "focus": "Cognitive Capitalism",
+      "context": "Mental Health Crisis. Capitalism now exploits the soul/psyche, leading to depression.",
+      "keyConflict": null,
+      "keyConcept": "Semio-Capitalism",
+      "audioFile": "ep177.mp3"
+    },
+    {
+      "id": 178,
+      "era": 7,
+      "title": "David Graeber: Bullshit Jobs",
+      "focus": "Work without purpose",
+      "context": "Bureaucracy. Why do 40% of people feel their job does not need to exist?",
+      "keyConflict": null,
+      "keyConcept": "Managerial Feudalism",
+      "audioFile": "ep178.mp3"
+    },
+    {
+      "id": 179,
+      "era": 7,
+      "title": "Rene Girard: Mimetic Theory",
+      "focus": "Desire is Contagious",
+      "context": "Social Media Envy. We want things because others want them.",
+      "keyConflict": null,
+      "keyConcept": "The Scapegoat Mechanism",
+      "audioFile": "ep179.mp3"
+    },
+    {
+      "id": 180,
+      "era": 7,
+      "title": "William MacAskill: What We Owe The Future",
+      "focus": "Longtermism",
+      "context": "Effective Altruism. Future people matter as much as present people.",
+      "keyConflict": null,
+      "keyConcept": "Existential Risk",
+      "audioFile": "ep180.mp3"
+    },
+    {
+      "id": 181,
+      "era": 7,
+      "title": "Toby Ord: The Precipice",
+      "focus": "The vulnerability of our time",
+      "context": "Nuclear/Bio Risk. We are in the most dangerous century in history.",
+      "keyConflict": null,
+      "keyConcept": "Extinction Risk",
+      "audioFile": "ep181.mp3"
+    },
+    {
+      "id": 182,
+      "era": 7,
+      "title": "David Benatar: The Human Predicament",
+      "focus": "Anti-Natalism",
+      "context": "Climate Anxiety. Is it moral to bring children into a suffering world?",
+      "keyConflict": null,
+      "keyConcept": "Asymmetry Argument (Pain is bad, absence of pleasure is not bad)",
+      "audioFile": "ep182.mp3"
+    },
+    {
+      "id": 183,
+      "era": 7,
+      "title": "Thomas Ligotti: The Conspiracy Against the Human Race",
+      "focus": "Horror Philosophy",
+      "context": "True Detective Era. Consciousness is a tragic misstep in evolution.",
+      "keyConflict": null,
+      "keyConcept": "Malignant Uselessness",
+      "audioFile": "ep183.mp3"
+    },
+    {
+      "id": 184,
+      "era": 7,
+      "title": "Eugene Thacker: In The Dust of This Planet",
+      "focus": "Horror of Philosophy",
+      "context": "The Anthropocene. Thinking about the world without us.",
+      "keyConflict": null,
+      "keyConcept": "The World-without-us",
+      "audioFile": "ep184.mp3"
+    },
+    {
+      "id": 185,
+      "era": 7,
+      "title": "Reza Negarestani: Intelligence and Spirit",
+      "focus": "AGI as Philosophy",
+      "context": "Neorationalism. Intelligence is a functional program of self-correction.",
+      "keyConflict": null,
+      "keyConcept": "Functionalism",
+      "audioFile": "ep185.mp3"
+    },
+    {
+      "id": 186,
+      "era": 7,
+      "title": "Yuk Hui: Cosmotechnics",
+      "focus": "Technology in China",
+      "context": "Breaking Western Tech-Monopoly. Different cultures have different \"technics.\"",
+      "keyConflict": null,
+      "keyConcept": "Cosmotechnics",
+      "audioFile": "ep186.mp3"
+    },
+    {
+      "id": 187,
+      "era": 7,
+      "title": "Benjamin Bratton: The Stack",
+      "focus": "Geopolitics of Software",
+      "context": "Cloud Computing. Sovereignty is now vertical (Server, City, Cloud), not horizontal (Borders).",
+      "keyConflict": null,
+      "keyConcept": "The Stack",
+      "audioFile": "ep187.mp3"
+    },
+    {
+      "id": 188,
+      "era": 7,
+      "title": "Kate Manne: Down Girl",
+      "focus": "Logic of Misogyny",
+      "context": "#MeToo. Sexism is an ideology; misogyny is the enforcement branch.",
+      "keyConflict": null,
+      "keyConcept": "Himpathy",
+      "audioFile": "ep188.mp3"
+    },
+    {
+      "id": 189,
+      "era": 7,
+      "title": "Amia Srinivasan: The Right to Sex",
+      "focus": "Politics of Desire",
+      "context": "Incels & Feminism. Is desire political? Can we critique who we are attracted to?",
+      "keyConflict": null,
+      "keyConcept": "Sexual racism",
+      "audioFile": "ep189.mp3"
+    },
+    {
+      "id": 190,
+      "era": 7,
+      "title": "Charles Mills: The Racial Contract",
+      "focus": "White Supremacy as a system",
+      "context": "Critical Race Theory. The Social Contract was always a Racial Contract.",
+      "keyConflict": null,
+      "keyConcept": "Epistemology of Ignorance",
+      "audioFile": "ep190.mp3"
+    },
+    {
+      "id": 191,
+      "era": 7,
+      "title": "Frank B. Wilderson III: Afropessimism",
+      "focus": "Social Death",
+      "context": "BLM. Anti-blackness is the foundational glue of the world; it cannot be \"fixed,\" only ended.",
+      "keyConflict": null,
+      "keyConcept": "Social Death",
+      "audioFile": "ep191.mp3"
+    },
+    {
+      "id": 192,
+      "era": 7,
+      "title": "Cornel West: Race Matters",
+      "focus": "Prophetic Pragmatism",
+      "context": "American Democracy. Combining Christianity, Marxism, and Pragmatism.",
+      "keyConflict": null,
+      "keyConcept": "Nihilism in Black America",
+      "audioFile": "ep192.mp3"
+    },
+    {
+      "id": 193,
+      "era": 7,
+      "title": "Miranda Fricker: Epistemic Injustice",
+      "focus": "Wronging someone as a knower",
+      "context": "Believe Women. When prejudice causes you to doubt someone's testimony.",
+      "keyConflict": null,
+      "keyConcept": "Testimonial Injustice",
+      "audioFile": "ep193.mp3"
+    },
+    {
+      "id": 194,
+      "era": 7,
+      "title": "C. Thi Nguyen: Games: Agency as Art",
+      "focus": "Games as an art form",
+      "context": "Gamification. Games allow us to \"try on\" different agencies and motivations.",
+      "keyConflict": null,
+      "keyConcept": "Striving Play",
+      "audioFile": "ep194.mp3"
+    },
+    {
+      "id": 195,
+      "era": 7,
+      "title": "Bernard Suits: The Grasshopper",
+      "focus": "Definition of a Game",
+      "context": "Retrospective. Playing a game is the \"voluntary attempt to overcome unnecessary obstacles.\"",
+      "keyConflict": null,
+      "keyConcept": "Lusory Attitude",
+      "audioFile": "ep195.mp3"
+    },
+    {
+      "id": 196,
+      "era": 7,
+      "title": "Harry Frankfurt: On Bullshit",
+      "focus": "Liar vs. Bullshitter",
+      "context": "Fake News. The liar cares about the truth (to hide it); the bullshitter doesn't care at all.",
+      "keyConflict": null,
+      "keyConcept": "Bullshit",
+      "audioFile": "ep196.mp3"
+    },
+    {
+      "id": 197,
+      "era": 7,
+      "title": "Elizabeth Anderson: Private Government",
+      "focus": "Tyranny in the Workplace",
+      "context": "Corporate Power. Why do we accept dictatorships at work that we reject in politics?",
+      "keyConflict": null,
+      "keyConcept": "Private Government",
+      "audioFile": "ep197.mp3"
+    },
+    {
+      "id": 198,
+      "era": 7,
+      "title": "Iain McGilchrist: The Master and His Emissary",
+      "focus": "Hemispheres of the Brain",
+      "context": "Neuro-philosophy. The Left Brain (Detail) has usurped the Right Brain (Whole).",
+      "keyConflict": null,
+      "keyConcept": "The Divided Brain",
+      "audioFile": "ep198.mp3"
+    },
+    {
+      "id": 199,
+      "era": 7,
+      "title": "Andreas Malm: How to Blow Up a Pipeline",
+      "focus": "Eco-Sabotage",
+      "context": "Climate Crisis. When does pacifism become complicity?",
+      "keyConflict": null,
+      "keyConcept": "Strategic Pacifism (critique)",
+      "audioFile": "ep199.mp3"
+    },
+    {
+      "id": 200,
+      "era": 7,
+      "title": "Isabelle Stengers: Cosmopolitics",
+      "focus": "Slow Science",
+      "context": "Philosophy of Science. Incorporating non-humans into politics.",
+      "keyConflict": null,
+      "keyConcept": "Cosmopolitics",
+      "audioFile": "ep200.mp3"
+    },
+    {
+      "id": 201,
+      "era": 7,
+      "title": "Donna Haraway: Staying with the Trouble",
+      "focus": "Making Kin",
+      "context": "Chthulucene. We need to make oddkin with other species to survive on a damaged planet.",
+      "keyConflict": null,
+      "keyConcept": "Tentacular Thinking",
+      "audioFile": "ep201.mp3"
+    },
+    {
+      "id": 202,
+      "era": 7,
+      "title": "Catherine Malabou: The Future of Hegel",
+      "focus": "Plasticity",
+      "context": "Neuroplasticity. The brain is plastic (formable), not elastic (returning to shape).",
+      "keyConflict": null,
+      "keyConcept": "Plasticity",
+      "audioFile": "ep202.mp3"
+    },
+    {
+      "id": 203,
+      "era": 7,
+      "title": "Sianne Ngai: Our Aesthetic Categories",
+      "focus": "Zany, Cute, Interesting",
+      "context": "Late Capitalist Aesthetics. Why do we value \"cuteness\" (powerlessness) or \"zaniness\" (overwork)?",
+      "keyConflict": null,
+      "keyConcept": "The Zany",
+      "audioFile": "ep203.mp3"
+    },
+    {
+      "id": 204,
+      "era": 7,
+      "title": "Agnes Callard: Aspiration",
+      "focus": "Becoming someone new",
+      "context": "Self-Creation. How do you value something (like opera) that you don't value yet?",
+      "keyConflict": null,
+      "keyConcept": "Proleptic Reasons",
+      "audioFile": "ep204.mp3"
+    },
+    {
+      "id": 205,
+      "era": 7,
+      "title": "L.A. Paul: Transformative Experience",
+      "focus": "Vampire Problems",
+      "context": "Decision Theory. You cannot rationally choose to become a parent because it changes who \"you\" are.",
+      "keyConflict": null,
+      "keyConcept": "Epistemic Transformation",
+      "audioFile": "ep205.mp3"
+    },
+    {
+      "id": 206,
+      "era": 7,
+      "title": "Galen Strawson: The self as a fiction",
+      "focus": "Against Narrativity",
+      "context": "The Self. Not everyone experiences life as a \"story.\"",
+      "keyConflict": null,
+      "keyConcept": "Episodic vs. Diachronic",
+      "audioFile": "ep206.mp3"
+    },
+    {
+      "id": 207,
+      "era": 7,
+      "title": "Derek Parfit II: On What Matters",
+      "focus": "The Triple Theory",
+      "context": "Meta-Ethics. Kantianism, Utilitarianism, and Contractualism are climbing the same mountain.",
+      "keyConflict": null,
+      "keyConcept": "Convergence",
+      "audioFile": "ep207.mp3"
+    },
+    {
+      "id": 208,
+      "era": 7,
+      "title": "T.M. Scanlon: What We Owe to Each Other",
+      "focus": "Contractualism",
+      "context": "Moral foundation. Morality is about justifying yourself to others.",
+      "keyConflict": null,
+      "keyConcept": "Reasonable Rejection",
+      "audioFile": "ep208.mp3"
+    },
+    {
+      "id": 209,
+      "era": 7,
+      "title": "Susan Wolf: Meaning in Life",
+      "focus": "Subjective attraction meets Objective worth",
+      "context": "Meaning Crisis. Meaning arises when \"subjective attraction meets objective attractiveness.\"",
+      "keyConflict": null,
+      "keyConcept": "Fitting Fulfillment",
+      "audioFile": "ep209.mp3"
+    },
+    {
+      "id": 210,
+      "era": 7,
+      "title": "Harry Frankfurt: The Reasons of Love",
+      "focus": "Love creates value",
+      "context": "Agency. What we love constrains our will, and that's good.",
+      "keyConflict": null,
+      "keyConcept": "Volitional Necessity",
+      "audioFile": "ep210.mp3"
+    },
+    {
+      "id": 211,
+      "era": 7,
+      "title": "Pentti Linkola: Can Life Prevail?",
+      "focus": "Deep Ecology Fascism",
+      "context": "Radical Environmentalism. Humanity is a cancer; saving the biosphere requires totalitarianism.",
+      "keyConflict": null,
+      "keyConcept": "Lifeboat Ethics",
+      "audioFile": "ep211.mp3"
+    },
+    {
+      "id": 212,
+      "era": 7,
+      "title": "The Singularity: Ray Kurzweil",
+      "focus": "Merging with Machines",
+      "context": "The year 2045. The point where biological evolution yields to technological evolution.",
+      "keyConflict": null,
+      "keyConcept": "Law of Accelerating Returns",
+      "audioFile": "ep212.mp3"
+    },
+    {
+      "id": 213,
+      "era": 7,
+      "title": "Transhumanism: Max More",
+      "focus": "Morphological Freedom",
+      "context": "Bio-hacking. The right to modify your own body and mind.",
+      "keyConflict": null,
+      "keyConcept": "Extropy",
+      "audioFile": "ep213.mp3"
+    },
+    {
+      "id": 214,
+      "era": 7,
+      "title": "Post-Humanism: Rosi Braidotti",
+      "focus": "Beyond \"Man\"",
+      "context": "Critical Theory. Moving beyond the Vitruvian Man to a zoe-centered ethics.",
+      "keyConflict": null,
+      "keyConcept": "Zoe (Life) vs. Bios",
+      "audioFile": "ep214.mp3"
+    },
+    {
+      "id": 215,
+      "era": 7,
+      "title": "Object Oriented Ontology: Ian Bogost",
+      "focus": "Alien Phenomenology",
+      "context": "Video Game Theory. What is it like to be a pixel?",
+      "keyConflict": null,
+      "keyConcept": "Unit Operations",
+      "audioFile": "ep215.mp3"
+    },
+    {
+      "id": 216,
+      "era": 7,
+      "title": "Speculative Realism: Levi Bryant",
+      "focus": "Democracy of Objects",
+      "context": "Ontology. All objects are equally real (flat ontology).",
+      "keyConflict": null,
+      "keyConcept": "The Ontic Principle",
+      "audioFile": "ep216.mp3"
+    },
+    {
+      "id": 217,
+      "era": 7,
+      "title": "Kwame Anthony Appiah: Cosmopolitanism",
+      "focus": "Ethics in a world of strangers",
+      "context": "Globalization. We have obligations to others, but also a right to our own partialities.",
+      "keyConflict": null,
+      "keyConcept": "Rooted Cosmopolitanism",
+      "audioFile": "ep217.mp3"
+    },
+    {
+      "id": 218,
+      "era": 7,
+      "title": "Clare Chambers: Intact",
+      "focus": "Political Philosophy of the Body",
+      "context": "Beauty Standards. The unmodified body as a site of resistance.",
+      "keyConflict": null,
+      "keyConcept": "The Unmodified Body",
+      "audioFile": "ep218.mp3"
+    },
+    {
+      "id": 219,
+      "era": 7,
+      "title": "The Unknown Future: Galactic Ethics",
+      "focus": "Expanding the Circle",
+      "context": "Space Expansion. Should we spread life to the stars?",
+      "keyConflict": null,
+      "keyConcept": "Cosmic Significance",
+      "audioFile": "ep219.mp3"
+    }
+  ]
+}
