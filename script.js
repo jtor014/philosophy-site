@@ -307,6 +307,9 @@ function renderEpisodePage(data, epId) {
     }
 
     // Header
+    const prevEp = getEpisode(data, epId - 1);
+    const nextEp = getEpisode(data, epId + 1);
+
     const header = document.getElementById('episode-header');
     header.innerHTML = `
         <div class="breadcrumb">
@@ -317,7 +320,11 @@ function renderEpisodePage(data, epId) {
             <span>Episode ${ep.id}</span>
         </div>
         <div class="ep-label">Episode ${ep.id}</div>
-        <h1>${ep.title}</h1>
+        <div class="title-nav-row">
+            ${prevEp ? `<a href="episode.html?ep=${prevEp.id}" class="title-nav-link prev" title="Ep ${prevEp.id}: ${prevEp.title}">&lsaquo;</a>` : '<span></span>'}
+            <h1>${ep.title}</h1>
+            ${nextEp ? `<a href="episode.html?ep=${nextEp.id}" class="title-nav-link next" title="Ep ${nextEp.id}: ${nextEp.title}">&rsaquo;</a>` : '<span></span>'}
+        </div>
         <div class="ep-focus-line">${ep.focus}</div>
     `;
 
@@ -387,8 +394,6 @@ function renderEpisodePage(data, epId) {
 
     // Navigation
     const navFooter = document.getElementById('episode-nav');
-    const prevEp = getEpisode(data, epId - 1);
-    const nextEp = getEpisode(data, epId + 1);
 
     let navHTML = '';
     if (prevEp) {
