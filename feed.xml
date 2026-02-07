@@ -4,12 +4,18 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Eternal Argument</title>
-    <description>From Myth to Machine — The Story of Human Thought</description>
+    <description>From Myth to Machine — The Story of Human Thought. A podcast that tells the story of human thought from its earliest beginnings to the present day. Each episode is a story about people wrestling with the hardest questions: What is real? What is good? What are we?</description>
     <link>https://theeternalargument.org</link>
     <language>en</language>
     <atom:link href="https://theeternalargument.org/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>The Eternal Argument</itunes:author>
+    <itunes:owner>
+      <itunes:name>The Eternal Argument</itunes:name>
+      <itunes:email>josh@torkington.au</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://theeternalargument.org/assets/cover.png"/>
     <itunes:explicit>false</itunes:explicit>
+    <itunes:summary>From Myth to Machine — The Story of Human Thought. A podcast that tells the story of human thought from its earliest beginnings to the present day. Each episode is a story about people wrestling with the hardest questions: What is real? What is good? What are we?</itunes:summary>
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Philosophy"/>
     </itunes:category>
@@ -22,6 +28,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=1</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:52:37</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -33,6 +40,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=2</guid>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:44:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -44,6 +52,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=3</guid>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:40:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -55,6 +64,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=4</guid>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:47:29</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -66,6 +76,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=5</guid>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:40:40</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -77,6 +88,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=6</guid>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:43:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -88,6 +100,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=7</guid>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>1:05:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
@@ -99,6 +112,7 @@
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=8</guid>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:55:03</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
 
