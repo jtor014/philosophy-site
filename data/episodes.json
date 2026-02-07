@@ -599,7 +599,7 @@
       "context": "Roman Empire. From a slave (Epictetus) to an Emperor (Marcus), Stoicism becomes the operating system of Rome.",
       "keyConflict": null,
       "keyConcept": "Dichotomy of Control (Internal vs. External)",
-      "audioFile": "ep008.mp3"
+      "audioFile": null
     },
     {
       "id": 9,
@@ -609,7 +609,7 @@
       "context": "The clash of dogmatic schools. The Skeptics find peace by admitting they know nothing.",
       "keyConflict": null,
       "keyConcept": "Epoche (Suspension of judgment)",
-      "audioFile": "ep009.mp3"
+      "audioFile": null
     },
     {
       "id": 10,
@@ -619,7 +619,7 @@
       "context": "Late Antiquity (The decline of Rome). Philosophy turns mystical, preparing the ground for Monotheism.",
       "keyConflict": null,
       "keyConcept": "The ascent of the soul back to the One",
-      "audioFile": "ep010.mp3"
+      "audioFile": null
     },
     {
       "id": 11,
@@ -629,7 +629,7 @@
       "context": "The Fall of Rome (410 AD). Augustine writes City of God to explain why the earthly empire failed and the heavenly one endures.",
       "keyConflict": null,
       "keyConcept": "Original Sin and the nature of Time",
-      "audioFile": "ep011.mp3"
+      "audioFile": null
     },
     {
       "id": 12,
@@ -639,7 +639,7 @@
       "context": "While Europe sleeps, Baghdad translates the Greeks. They reconcile the Quran with Aristotelian logic.",
       "keyConflict": null,
       "keyConcept": "The \"Commentator\" (Averroes)",
-      "audioFile": "ep012.mp3"
+      "audioFile": null
     },
     {
       "id": 13,
@@ -649,7 +649,7 @@
       "context": "High Middle Ages. The intellectual project shifts to ontological proofs of God's existence.",
       "keyConflict": null,
       "keyConcept": "Faith seeking understanding",
-      "audioFile": "ep013.mp3"
+      "audioFile": null
     },
     {
       "id": 14,
@@ -659,7 +659,7 @@
       "context": "The height of Scholasticism. Aquinas creates the massive synthesis of Catholic Dogma and Aristotelian Science.",
       "keyConflict": null,
       "keyConcept": "Natural Law",
-      "audioFile": "ep014.mp3"
+      "audioFile": null
     },
     {
       "id": 15,
@@ -669,7 +669,7 @@
       "context": "Late Middle Ages. The synthesis begins to crack. Ockham separates faith from reason and simplifies the universe.",
       "keyConflict": null,
       "keyConcept": "Ockham's Razor (Do not multiply entities beyond necessity)",
-      "audioFile": "ep015.mp3"
+      "audioFile": null
     },
     {
       "id": 16,
@@ -679,7 +679,7 @@
       "context": "Renaissance Florence. The Medicis and Borgias. Machiavelli looks at politics as it is, not as it ought to be.",
       "keyConflict": null,
       "keyConcept": "Virtu (boldness/skill) vs. Fortuna (luck)",
-      "audioFile": "ep016.mp3"
+      "audioFile": null
     },
     {
       "id": 17,
@@ -689,7 +689,7 @@
       "context": "The French Wars of Religion. Amidst the slaughter, Montaigne retreats to his tower to write essays about... himself.",
       "keyConflict": null,
       "keyConcept": "\"Que sais-je?\" (What do I know?)",
-      "audioFile": "ep017.mp3"
+      "audioFile": null
     },
     {
       "id": 18,
@@ -699,7 +699,7 @@
       "context": "The early 1600s. The authority of the Church and Aristotle is shattered by the telescope and the induction method.",
       "keyConflict": null,
       "keyConcept": "Empiricism (Knowledge comes from sensory experience)",
-      "audioFile": "ep018.mp3"
+      "audioFile": null
     },
     {
       "id": 19,
@@ -709,7 +709,7 @@
       "context": "Post-Reformation confusion. Descartes locks himself in a stove-heated room to doubt everything until he finds a single certainty.",
       "keyConflict": null,
       "keyConcept": "Cogito Ergo Sum (I think, therefore I am)",
-      "audioFile": "ep019.mp3"
+      "audioFile": null
     },
     {
       "id": 20,
@@ -719,7 +719,7 @@
       "context": "The English Civil War. Hobbes sees the chaos of men without government and argues for an absolute sovereign.",
       "keyConflict": null,
       "keyConcept": "The State of Nature is \"nasty, brutish, and short\"",
-      "audioFile": "ep020.mp3"
+      "audioFile": null
     },
     {
       "id": 21,
@@ -729,7 +729,7 @@
       "context": "The Dutch Golden Age. Spinoza is excommunicated for equating God with the mechanical universe, removing all personality from divinity.",
       "keyConflict": null,
       "keyConcept": "Pantheism / Determinism",
-      "audioFile": "ep021.mp3"
+      "audioFile": null
     },
     {
       "id": 22,
@@ -739,7 +739,7 @@
       "context": "The invention of Calculus. Leibniz argues that despite evil, God calculated the most optimal universe possible.",
       "keyConflict": null,
       "keyConcept": "The Best of All Possible Worlds",
-      "audioFile": "ep022.mp3"
+      "audioFile": null
     },
     {
       "id": 23,
@@ -749,7 +749,7 @@
       "context": "The Glorious Revolution. Locke argues we are born knowing nothing, and that government is a revocable contract.",
       "keyConflict": null,
       "keyConcept": "Tabula Rasa",
-      "audioFile": "ep023.mp3"
+      "audioFile": null
     },
     {
       "id": 24,
@@ -759,7 +759,7 @@
       "context": "Early 18th Century. A reaction against materialism; Berkeley argues matter doesn't exist, only God's perception of it.",
       "keyConflict": null,
       "keyConcept": "Esse est percipi",
-      "audioFile": "ep024.mp3"
+      "audioFile": null
     },
     {
       "id": 25,
@@ -769,7 +769,7 @@
       "context": "The Scottish Enlightenment. Hume wakes Kant from his \"dogmatic slumber\" by showing we can't prove the sun will rise tomorrow.",
       "keyConflict": null,
       "keyConcept": "The Problem of Induction",
-      "audioFile": "ep025.mp3"
+      "audioFile": null
     },
     {
       "id": 26,
@@ -779,7 +779,7 @@
       "context": "A challenge to moralists. Hume argues you cannot derive moral duties (ought) from descriptions of nature (is).",
       "keyConflict": null,
       "keyConcept": "The Naturalistic Fallacy (precursor)",
-      "audioFile": "ep026.mp3"
+      "audioFile": null
     },
     {
       "id": 27,
@@ -789,7 +789,7 @@
       "context": "Pre-Revolution France. Rousseau flips the narrative: nature is good; society ruins us.",
       "keyConflict": null,
       "keyConcept": "Amour-propre (vanity) vs. Amour de soi (self-love)",
-      "audioFile": "ep027.mp3"
+      "audioFile": null
     },
     {
       "id": 28,
@@ -799,7 +799,7 @@
       "context": "Providing the blueprint for the French Revolution. Man is born free, but everywhere is in chains.",
       "keyConflict": null,
       "keyConcept": "Forcing people to be free",
-      "audioFile": "ep028.mp3"
+      "audioFile": null
     },
     {
       "id": 29,
@@ -809,7 +809,7 @@
       "context": "The dawn of Industrial Capitalism. Smith describes how individual selfishness can lead to collective good.",
       "keyConflict": null,
       "keyConcept": "Division of Labor",
-      "audioFile": "ep029.mp3"
+      "audioFile": null
     },
     {
       "id": 30,
@@ -819,7 +819,7 @@
       "context": "The French Revolution. Wollstonecraft asks: if we are freeing men from kings, why are women still slaves to men?",
       "keyConflict": null,
       "keyConcept": "Educated virtue",
-      "audioFile": "ep030.mp3"
+      "audioFile": null
     },
     {
       "id": 31,
@@ -829,7 +829,7 @@
       "context": "The synthesis of Rationalism and Empiricism. Kant argues we can never know the world-in-itself, only the world as our mind structures it.",
       "keyConflict": null,
       "keyConcept": "The Noumena vs. Phenomena",
-      "audioFile": "ep031.mp3"
+      "audioFile": null
     },
     {
       "id": 32,
@@ -839,7 +839,7 @@
       "context": "Secular morality. Kant tries to build an absolute morality without using religion.",
       "keyConflict": null,
       "keyConcept": "Act only according to that maxim whereby you can, at the same time, will that it should become a universal law",
-      "audioFile": "ep032.mp3"
+      "audioFile": null
     },
     {
       "id": 33,
@@ -849,7 +849,7 @@
       "context": "Social Reform. Bentham creates a mathematical formula for ethics: maximize pleasure, minimize pain.",
       "keyConflict": null,
       "keyConcept": "The Panopticon",
-      "audioFile": "ep033.mp3"
+      "audioFile": null
     },
     {
       "id": 34,
@@ -859,7 +859,7 @@
       "context": "Napoleon is marching across Europe. Hegel sees history not as random, but as the unfolding of freedom.",
       "keyConflict": null,
       "keyConcept": "Thesis-Antithesis-Synthesis (Aufheben)",
-      "audioFile": "ep034.mp3"
+      "audioFile": null
     },
     {
       "id": 35,
@@ -869,7 +869,7 @@
       "context": "Defining self-consciousness. We only exist if someone else acknowledges us.",
       "keyConflict": null,
       "keyConcept": "The struggle for recognition",
-      "audioFile": "ep035.mp3"
+      "audioFile": null
     },
     {
       "id": 36,
@@ -879,7 +879,7 @@
       "context": "Post-Napoleonic disillusionment. Schopenhauer argues reality is a blind, insatiable striving force.",
       "keyConflict": null,
       "keyConcept": "Life oscillates between pain and boredom",
-      "audioFile": "ep036.mp3"
+      "audioFile": null
     },
     {
       "id": 37,
@@ -889,7 +889,7 @@
       "context": "Tsarist Russia. A rebellion against rational utopias; the Underground Man would rather suffer than be a \"piano key.\"",
       "keyConflict": null,
       "keyConcept": "Irrational freedom",
-      "audioFile": "ep037.mp3"
+      "audioFile": null
     },
     {
       "id": 38,
@@ -899,7 +899,7 @@
       "context": "The Young Hegelians. Stirner rejects God, State, and even \"Humanity\" as \"spooks\" haunting the mind.",
       "keyConflict": null,
       "keyConcept": "The Spook (Spuk)",
-      "audioFile": "ep038.mp3"
+      "audioFile": null
     },
     {
       "id": 39,
@@ -909,7 +909,7 @@
       "context": "The complacent Danish Church. Kierkegaard attacks \"Christendom\" to save Christianity.",
       "keyConflict": null,
       "keyConcept": "Subjectivity is Truth",
-      "audioFile": "ep039.mp3"
+      "audioFile": null
     },
     {
       "id": 40,
@@ -919,7 +919,7 @@
       "context": "The Industrial Revolution. Marx turns Hegel on his head: ideas don't drive history, economics does.",
       "keyConflict": null,
       "keyConcept": "Base and Superstructure",
-      "audioFile": "ep040.mp3"
+      "audioFile": null
     },
     {
       "id": 41,
@@ -929,7 +929,7 @@
       "context": "The misery of the factory. Why do we treat things like people and people like things?",
       "keyConflict": null,
       "keyConcept": "Alienation from labor",
-      "audioFile": "ep041.mp3"
+      "audioFile": null
     },
     {
       "id": 42,
@@ -939,7 +939,7 @@
       "context": "Victorian England. Mill tries to protect the eccentric individual from the \"tyranny of the majority.\"",
       "keyConflict": null,
       "keyConcept": "The marketplace of ideas",
-      "audioFile": "ep042.mp3"
+      "audioFile": null
     },
     {
       "id": 43,
@@ -949,7 +949,7 @@
       "context": "A critique of dry rationality. We need the chaos of the festival to bear existence.",
       "keyConflict": null,
       "keyConcept": "Affirmation of life",
-      "audioFile": "ep043.mp3"
+      "audioFile": null
     },
     {
       "id": 44,
@@ -959,7 +959,7 @@
       "context": "The secularization of Europe. Nietzsche predicts the collapse of all values and the age of Nihilism.",
       "keyConflict": null,
       "keyConcept": "\"God is dead... and we have killed him.\"",
-      "audioFile": "ep044.mp3"
+      "audioFile": null
     },
     {
       "id": 45,
@@ -969,7 +969,7 @@
       "context": "The answer to Nihilism. Could you live this life over and over again?",
       "keyConflict": null,
       "keyConcept": "Amor Fati (Love of Fate)",
-      "audioFile": "ep045.mp3"
+      "audioFile": null
     },
     {
       "id": 46,
@@ -979,7 +979,7 @@
       "context": "Exploring the origin of \"Good\" and \"Evil.\" Christianity as a revenge plot by the weak against the strong.",
       "keyConflict": null,
       "keyConcept": "Ressentiment",
-      "audioFile": "ep046.mp3"
+      "audioFile": null
     },
     {
       "id": 47,
@@ -989,7 +989,7 @@
       "context": "American Industrialism. Ideas are tools for navigating the world, not mirrors of reality.",
       "keyConflict": null,
       "keyConcept": "The Cash Value of Truth",
-      "audioFile": "ep047.mp3"
+      "audioFile": null
     },
     {
       "id": 48,
@@ -999,7 +999,7 @@
       "context": "The birth of Semiotics. Belief is just a rule for action.",
       "keyConflict": null,
       "keyConcept": "Fallibilism",
-      "audioFile": "ep048.mp3"
+      "audioFile": null
     },
     {
       "id": 49,
@@ -1009,7 +1009,7 @@
       "context": "Victorian repression. Freud discovers the dark basement of the mind.",
       "keyConflict": null,
       "keyConcept": "Id, Ego, Superego",
-      "audioFile": "ep049.mp3"
+      "audioFile": null
     },
     {
       "id": 50,
@@ -1019,7 +1019,7 @@
       "context": "Breaking with Freud. Jung argues myths are shared structures of the human psyche.",
       "keyConflict": null,
       "keyConcept": "The Shadow",
-      "audioFile": "ep050.mp3"
+      "audioFile": null
     },
     {
       "id": 51,
@@ -1029,7 +1029,7 @@
       "context": "The mechanization of time. Bergson argues real time is a flow, not a clock tick.",
       "keyConflict": null,
       "keyConcept": "Elan vital (Vital force)",
-      "audioFile": "ep051.mp3"
+      "audioFile": null
     },
     {
       "id": 52,
@@ -1039,7 +1039,7 @@
       "context": "Jim Crow America. The psychological toll of viewing oneself through the eyes of a racist society.",
       "keyConflict": null,
       "keyConcept": "The Veil",
-      "audioFile": "ep052.mp3"
+      "audioFile": null
     },
     {
       "id": 53,
@@ -1049,7 +1049,7 @@
       "context": "American Progressive Era. Education is not preparation for life; it is life itself.",
       "keyConflict": null,
       "keyConcept": "Instrumentalism",
-      "audioFile": "ep053.mp3"
+      "audioFile": null
     },
     {
       "id": 54,
@@ -1059,7 +1059,7 @@
       "context": "Quantum Physics. Whitehead tries to metaphysicalize relativity.",
       "keyConflict": null,
       "keyConcept": "Process Philosophy",
-      "audioFile": "ep054.mp3"
+      "audioFile": null
     },
     {
       "id": 55,
@@ -1069,7 +1069,7 @@
       "context": "Cleaning up language. The Morning Star and the Evening Star are the same object, but different \"senses.\"",
       "keyConflict": null,
       "keyConcept": "Logicism",
-      "audioFile": "ep055.mp3"
+      "audioFile": null
     },
     {
       "id": 56,
@@ -1079,7 +1079,7 @@
       "context": "Reaction against Idealism. You can't define \"Good\" in terms of natural properties (like pleasure).",
       "keyConflict": null,
       "keyConcept": "The Open Question Argument",
-      "audioFile": "ep056.mp3"
+      "audioFile": null
     },
     {
       "id": 57,
@@ -1089,7 +1089,7 @@
       "context": "The quest for certainty. Russell tries to prove 1+1=2 using pure logic.",
       "keyConflict": null,
       "keyConcept": "Russell's Paradox",
-      "audioFile": "ep057.mp3"
+      "audioFile": null
     },
     {
       "id": 58,
@@ -1099,7 +1099,7 @@
       "context": "Solving linguistic puzzles. How can we talk about things that don't exist?",
       "keyConflict": null,
       "keyConcept": "Definite Descriptions",
-      "audioFile": "ep058.mp3"
+      "audioFile": null
     },
     {
       "id": 59,
@@ -1109,7 +1109,7 @@
       "context": "WWI Trenches. Wittgenstein writes a book to solve all philosophy. \"Whereof one cannot speak, thereof one must be silent.\"",
       "keyConflict": null,
       "keyConcept": "Picture Theory of Language",
-      "audioFile": "ep059.mp3"
+      "audioFile": null
     },
     {
       "id": 60,
@@ -1119,7 +1119,7 @@
       "context": "Interwar Vienna. Attempting to banish metaphysics as \"nonsense.\"",
       "keyConflict": null,
       "keyConcept": "The Verification Principle",
-      "audioFile": "ep060.mp3"
+      "audioFile": null
     },
     {
       "id": 61,
@@ -1129,7 +1129,7 @@
       "context": "Post-WWII Cambridge. Wittgenstein destroys his own earlier work. Meaning is use, not definition.",
       "keyConflict": null,
       "keyConcept": "The Beetle in the Box",
-      "audioFile": "ep061.mp3"
+      "audioFile": null
     },
     {
       "id": 62,
@@ -1139,7 +1139,7 @@
       "context": "Pre-WWI. Husserl suspends scientific assumptions to describe pure experience.",
       "keyConflict": null,
       "keyConcept": "Intentionality (All consciousness is consciousness of something)",
-      "audioFile": "ep062.mp3"
+      "audioFile": null
     },
     {
       "id": 63,
@@ -1149,7 +1149,7 @@
       "context": "1927 Germany. Asking the forgotten question: What does it mean to be?",
       "keyConflict": null,
       "keyConcept": "Being-toward-death",
-      "audioFile": "ep063.mp3"
+      "audioFile": null
     },
     {
       "id": 64,
@@ -1159,7 +1159,7 @@
       "context": "The Atomic Age. Technology is not a tool; it is a way of revealing the world as \"standing reserve\" (resources to be exploited).",
       "keyConflict": null,
       "keyConcept": "Enframing (Gestell)",
-      "audioFile": "ep064.mp3"
+      "audioFile": null
     },
     {
       "id": 65,
@@ -1169,7 +1169,7 @@
       "context": "The failure of Weimar. Politics is not debate; it is distinguishing who you are willing to kill.",
       "keyConflict": null,
       "keyConcept": "The Sovereign is he who decides on the exception",
-      "audioFile": "ep065.mp3"
+      "audioFile": null
     },
     {
       "id": 66,
@@ -1179,7 +1179,7 @@
       "context": "Nazi-occupied Paris. We have no \"nature\"; we create ourselves through choices.",
       "keyConflict": null,
       "keyConcept": "Condemned to be free",
-      "audioFile": "ep066.mp3"
+      "audioFile": null
     },
     {
       "id": 67,
@@ -1189,7 +1189,7 @@
       "context": "The Waiter in the Cafe. Pretending you have no choice is the ultimate sin.",
       "keyConflict": null,
       "keyConcept": "The Look (Hell is other people)",
-      "audioFile": "ep067.mp3"
+      "audioFile": null
     },
     {
       "id": 68,
@@ -1199,7 +1199,7 @@
       "context": "1949. The foundation of modern feminism. Woman is defined as the \"Other\" to man.",
       "keyConflict": null,
       "keyConcept": "Immanence vs. Transcendence",
-      "audioFile": "ep068.mp3"
+      "audioFile": null
     },
     {
       "id": 69,
@@ -1209,7 +1209,7 @@
       "context": "WWII. The universe is silent, and we crave meaning. The conflict is the Absurd.",
       "keyConflict": null,
       "keyConcept": "One must imagine Sisyphus happy",
-      "audioFile": "ep069.mp3"
+      "audioFile": null
     },
     {
       "id": 70,
@@ -1219,7 +1219,7 @@
       "context": "The Holocaust. Even in Auschwitz, the last human freedom is to choose one's attitude.",
       "keyConflict": null,
       "keyConcept": "Logotherapy",
-      "audioFile": "ep070.mp3"
+      "audioFile": null
     },
     {
       "id": 71,
@@ -1229,7 +1229,7 @@
       "context": "The French Resistance. Spiritual mysticism meeting political activism.",
       "keyConflict": null,
       "keyConcept": "Decreation (Removing the self to let God in)",
-      "audioFile": "ep071.mp3"
+      "audioFile": null
     },
     {
       "id": 72,
@@ -1239,7 +1239,7 @@
       "context": "Breaking with Sartre. We don't have bodies; we are bodies.",
       "keyConflict": null,
       "keyConcept": "The Flesh",
-      "audioFile": "ep072.mp3"
+      "audioFile": null
     },
     {
       "id": 73,
@@ -1249,7 +1249,7 @@
       "context": "Post-Holocaust. Ethics comes before ontology. The Other holds me hostage.",
       "keyConflict": null,
       "keyConcept": "Infinite Responsibility",
-      "audioFile": "ep073.mp3"
+      "audioFile": null
     },
     {
       "id": 74,
@@ -1259,7 +1259,7 @@
       "context": "Mussolini's prison. Capitalism survives not just by force, but by controlling the culture.",
       "keyConflict": null,
       "keyConcept": "Organic Intellectuals",
-      "audioFile": "ep074.mp3"
+      "audioFile": null
     },
     {
       "id": 75,
@@ -1269,7 +1269,7 @@
       "context": "The rise of cinema and photography. Mass production kills the \"here and now\" of art.",
       "keyConflict": null,
       "keyConcept": "The Aura",
-      "audioFile": "ep075.mp3"
+      "audioFile": null
     },
     {
       "id": 76,
@@ -1279,7 +1279,7 @@
       "context": "WWII Exile. The Enlightenment's drive to dominate nature turned into the domination of man.",
       "keyConflict": null,
       "keyConcept": "The Culture Industry",
-      "audioFile": "ep076.mp3"
+      "audioFile": null
     },
     {
       "id": 77,
@@ -1289,7 +1289,7 @@
       "context": "1960s Consumerism. We are so comfortable we have lost the ability to imagine a different world.",
       "keyConflict": null,
       "keyConcept": "Repressive Desublimation",
-      "audioFile": "ep077.mp3"
+      "audioFile": null
     },
     {
       "id": 78,
@@ -1299,7 +1299,7 @@
       "context": "Analyzing Hitler and Stalin. How lonely masses are mobilized by ideology.",
       "keyConflict": null,
       "keyConcept": "The destruction of the private sphere",
-      "audioFile": "ep078.mp3"
+      "audioFile": null
     },
     {
       "id": 79,
@@ -1309,7 +1309,7 @@
       "context": "1961 Trial. Evil is not demonic; it is thoughtlessness and bureaucracy.",
       "keyConflict": null,
       "keyConcept": "Thinking as a moral duty",
-      "audioFile": "ep079.mp3"
+      "audioFile": null
     },
     {
       "id": 80,
@@ -1319,7 +1319,7 @@
       "context": "WWII. Attacking Plato, Hegel, and Marx as enemies of freedom.",
       "keyConflict": null,
       "keyConcept": "Falsification",
-      "audioFile": "ep080.mp3"
+      "audioFile": null
     },
     {
       "id": 81,
@@ -1329,7 +1329,7 @@
       "context": "Cold War. A radical defense of capitalism and individualism against collectivism.",
       "keyConflict": null,
       "keyConcept": "Rational Egoism",
-      "audioFile": "ep081.mp3"
+      "audioFile": null
     },
     {
       "id": 82,
@@ -1339,7 +1339,7 @@
       "context": "Educational reform. Warning that debunking traditional values will produce \"Men without Chests.\"",
       "keyConflict": null,
       "keyConcept": "Objective Value",
-      "audioFile": "ep082.mp3"
+      "audioFile": null
     },
     {
       "id": 83,
@@ -1349,7 +1349,7 @@
       "context": "The rise of Central Planning. No government can know enough to run an economy.",
       "keyConflict": null,
       "keyConcept": "Spontaneous Order",
-      "audioFile": "ep083.mp3"
+      "audioFile": null
     },
     {
       "id": 84,
@@ -1359,7 +1359,7 @@
       "context": "Mid-century Analytic. Debunking the split between \"facts\" and \"definitions.\"",
       "keyConflict": null,
       "keyConcept": "Ontological Relativity",
-      "audioFile": "ep084.mp3"
+      "audioFile": null
     },
     {
       "id": 85,
@@ -1369,7 +1369,7 @@
       "context": "Oxford Ordinary Language. Language isn't just descriptive; it's performative (e.g., \"I do\" at a wedding).",
       "keyConflict": null,
       "keyConcept": "Performativity",
-      "audioFile": "ep085.mp3"
+      "audioFile": null
     },
     {
       "id": 86,
@@ -1379,7 +1379,7 @@
       "context": "Behaviorism. The mind is not a ghost inside a body-machine.",
       "keyConflict": null,
       "keyConcept": "Category Mistake",
-      "audioFile": "ep086.mp3"
+      "audioFile": null
     },
     {
       "id": 87,
@@ -1389,7 +1389,7 @@
       "context": "Legal Philosophy. Separating law from morality.",
       "keyConflict": null,
       "keyConcept": "Primary vs. Secondary Rules",
-      "audioFile": "ep087.mp3"
+      "audioFile": null
     },
     {
       "id": 88,
@@ -1399,7 +1399,7 @@
       "context": "Against Existentialism. Moral life is about seeing reality clearly, not just choosing.",
       "keyConflict": null,
       "keyConcept": "The Good",
-      "audioFile": "ep088.mp3"
+      "audioFile": null
     },
     {
       "id": 89,
@@ -1409,7 +1409,7 @@
       "context": "History of Science. Science doesn't progress linearly; it jumps.",
       "keyConflict": null,
       "keyConcept": "Incommensurability",
-      "audioFile": "ep089.mp3"
+      "audioFile": null
     },
     {
       "id": 90,
@@ -1419,7 +1419,7 @@
       "context": "1970s. \"Anything goes\" in science.",
       "keyConflict": null,
       "keyConcept": "Separation of Science and State",
-      "audioFile": "ep090.mp3"
+      "audioFile": null
     },
     {
       "id": 91,
@@ -1429,7 +1429,7 @@
       "context": "The TV Age. The tool shapes us more than the content of the tool.",
       "keyConflict": null,
       "keyConcept": "Global Village",
-      "audioFile": "ep091.mp3"
+      "audioFile": null
     },
     {
       "id": 92,
@@ -1439,7 +1439,7 @@
       "context": "Situationist International / May 1968. Capital accumulates until it becomes an image.",
       "keyConflict": null,
       "keyConcept": "The Spectacle",
-      "audioFile": "ep092.mp3"
+      "audioFile": null
     },
     {
       "id": 93,
@@ -1449,7 +1449,7 @@
       "context": "The root of Structuralism. Meaning is difference within a system.",
       "keyConflict": null,
       "keyConcept": "The Sign is arbitrary",
-      "audioFile": "ep093.mp3"
+      "audioFile": null
     },
     {
       "id": 94,
@@ -1459,7 +1459,7 @@
       "context": "Studying tribes to understand the Western mind. Culture is a language.",
       "keyConflict": null,
       "keyConcept": "Bricolage",
-      "audioFile": "ep094.mp3"
+      "audioFile": null
     },
     {
       "id": 95,
@@ -1469,7 +1469,7 @@
       "context": "Freudian revival. The \"I\" is formed by misrecognizing oneself in a mirror.",
       "keyConflict": null,
       "keyConcept": "The Imaginary",
-      "audioFile": "ep095.mp3"
+      "audioFile": null
     },
     {
       "id": 96,
@@ -1479,7 +1479,7 @@
       "context": "The Symbolic Order. We are spoken by language.",
       "keyConflict": null,
       "keyConcept": "The Real (that which resists symbolization)",
-      "audioFile": "ep096.mp3"
+      "audioFile": null
     },
     {
       "id": 97,
@@ -1489,7 +1489,7 @@
       "context": "Wrestling, Soap, and Wine. Everything is a sign system.",
       "keyConflict": null,
       "keyConcept": "Death of the Author",
-      "audioFile": "ep097.mp3"
+      "audioFile": null
     },
     {
       "id": 98,
@@ -1499,7 +1499,7 @@
       "context": "Anti-Psychiatry. Madness is a social construct used to define \"Reason.\"",
       "keyConflict": null,
       "keyConcept": "The Great Confinement",
-      "audioFile": "ep098.mp3"
+      "audioFile": null
     },
     {
       "id": 99,
@@ -1509,7 +1509,7 @@
       "context": "The Surveillance State. Power moved from the King's sword to the Warden's gaze.",
       "keyConflict": null,
       "keyConcept": "Docile Bodies",
-      "audioFile": "ep099.mp3"
+      "audioFile": null
     },
     {
       "id": 100,
@@ -1519,7 +1519,7 @@
       "context": "The birth of statistics and public health. Power over \"Life\" itself.",
       "keyConflict": null,
       "keyConcept": "Biopower",
-      "audioFile": "ep100.mp3"
+      "audioFile": null
     },
     {
       "id": 101,
@@ -1529,7 +1529,7 @@
       "context": "1967. Dismantling Western Metaphysics by showing its internal contradictions.",
       "keyConflict": null,
       "keyConcept": "Differance",
-      "audioFile": "ep101.mp3"
+      "audioFile": null
     },
     {
       "id": 102,
@@ -1539,7 +1539,7 @@
       "context": "Fall of the Berlin Wall. The past haunts the present; communism isn't dead, it's a ghost.",
       "keyConflict": null,
       "keyConcept": "Hauntology",
-      "audioFile": "ep102.mp3"
+      "audioFile": null
     },
     {
       "id": 103,
@@ -1549,7 +1549,7 @@
       "context": "Against Plato. Difference is primary; identity is secondary.",
       "keyConflict": null,
       "keyConcept": "Becoming",
-      "audioFile": "ep103.mp3"
+      "audioFile": null
     },
     {
       "id": 104,
@@ -1559,7 +1559,7 @@
       "context": "With Guattari. Thinking in webs, not hierarchies.",
       "keyConflict": null,
       "keyConcept": "Deterritorialization",
-      "audioFile": "ep104.mp3"
+      "audioFile": null
     },
     {
       "id": 105,
@@ -1569,7 +1569,7 @@
       "context": "1968. We consume signs, not utility.",
       "keyConflict": null,
       "keyConcept": "Sign-Value",
-      "audioFile": "ep105.mp3"
+      "audioFile": null
     },
     {
       "id": 106,
@@ -1579,7 +1579,7 @@
       "context": "The Matrix Era. Reality has been replaced by the simulation.",
       "keyConflict": null,
       "keyConcept": "Hyperreality",
-      "audioFile": "ep106.mp3"
+      "audioFile": null
     },
     {
       "id": 107,
@@ -1589,7 +1589,7 @@
       "context": "The Information Age. We no longer believe in \"Progress\" or \"Emancipation.\"",
       "keyConflict": null,
       "keyConcept": "Paralogy",
-      "audioFile": "ep107.mp3"
+      "audioFile": null
     },
     {
       "id": 108,
@@ -1599,7 +1599,7 @@
       "context": "Defending the Enlightenment against Postmodernists. The Ideal Speech Situation.",
       "keyConflict": null,
       "keyConcept": "The Public Sphere",
-      "audioFile": "ep108.mp3"
+      "audioFile": null
     },
     {
       "id": 109,
@@ -1609,7 +1609,7 @@
       "context": "Sociology of culture. Your \"personal taste\" is just your class position.",
       "keyConflict": null,
       "keyConcept": "Cultural Capital / Habitus",
-      "audioFile": "ep109.mp3"
+      "audioFile": null
     },
     {
       "id": 110,
@@ -1619,7 +1619,7 @@
       "context": "Psychology. Civilization is a defense mechanism against mortality.",
       "keyConflict": null,
       "keyConcept": "Immortality Projects",
-      "audioFile": "ep110.mp3"
+      "audioFile": null
     },
     {
       "id": 111,
@@ -1629,7 +1629,7 @@
       "context": "Why we choose dictators. Freedom is terrifying.",
       "keyConflict": null,
       "keyConcept": "Automaton Conformity",
-      "audioFile": "ep111.mp3"
+      "audioFile": null
     },
     {
       "id": 112,
@@ -1639,7 +1639,7 @@
       "context": "1971. Reviving Political Philosophy. Design a society without knowing who you will be in it.",
       "keyConflict": null,
       "keyConcept": "The Veil of Ignorance",
-      "audioFile": "ep112.mp3"
+      "audioFile": null
     },
     {
       "id": 113,
@@ -1649,7 +1649,7 @@
       "context": "Response to Rawls. Taxation is forced labor.",
       "keyConflict": null,
       "keyConcept": "Entitlement Theory",
-      "audioFile": "ep113.mp3"
+      "audioFile": null
     },
     {
       "id": 114,
@@ -1659,7 +1659,7 @@
       "context": "Moral chaos. We have lost the language of morality; we need tradition.",
       "keyConflict": null,
       "keyConcept": "Narrative Unity of a Life",
-      "audioFile": "ep114.mp3"
+      "audioFile": null
     },
     {
       "id": 115,
@@ -1669,7 +1669,7 @@
       "context": "Critique of Liberalism. You cannot be a neutral self; you are constituted by your community.",
       "keyConflict": null,
       "keyConcept": "Encumbered Self",
-      "audioFile": "ep115.mp3"
+      "audioFile": null
     },
     {
       "id": 116,
@@ -1679,7 +1679,7 @@
       "context": "History of subjectivity. How we became \"individuals.\"",
       "keyConflict": null,
       "keyConcept": "Authenticity",
-      "audioFile": "ep116.mp3"
+      "audioFile": null
     },
     {
       "id": 117,
@@ -1689,7 +1689,7 @@
       "context": "The \"Me\" Decade (70s). The shift from politics to self-help.",
       "keyConflict": null,
       "keyConcept": "The Narcissistic Personality",
-      "audioFile": "ep117.mp3"
+      "audioFile": null
     },
     {
       "id": 118,
@@ -1699,7 +1699,7 @@
       "context": "Giving up on \"Truth\" with a capital T. Philosophy is just conversation.",
       "keyConflict": null,
       "keyConcept": "Irony",
-      "audioFile": "ep118.mp3"
+      "audioFile": null
     },
     {
       "id": 119,
@@ -1709,7 +1709,7 @@
       "context": "Semantic externalism. \"Meanings just ain't in the head.\"",
       "keyConflict": null,
       "keyConcept": "Twin Earth",
-      "audioFile": "ep119.mp3"
+      "audioFile": null
     },
     {
       "id": 120,
@@ -1719,7 +1719,7 @@
       "context": "Modal Logic. Water is H2O in all possible worlds.",
       "keyConflict": null,
       "keyConcept": "A Posteriori Necessity",
-      "audioFile": "ep120.mp3"
+      "audioFile": null
     },
     {
       "id": 121,
@@ -1729,7 +1729,7 @@
       "context": "Philosophy of Mind. Mental events are physical, but not governed by strict laws.",
       "keyConflict": null,
       "keyConcept": "Principle of Charity",
-      "audioFile": "ep121.mp3"
+      "audioFile": null
     },
     {
       "id": 122,
@@ -1739,7 +1739,7 @@
       "context": "Ethics. Sometimes whether you are \"good\" depends on luck (e.g., the drunk driver who hits no one).",
       "keyConflict": null,
       "keyConcept": "Gauguin's choice",
-      "audioFile": "ep122.mp3"
+      "audioFile": null
     },
     {
       "id": 123,
@@ -1749,7 +1749,7 @@
       "context": "Consciousness. The tension between living a life and viewing it from the outside.",
       "keyConflict": null,
       "keyConcept": "What is it like to be a bat?",
-      "audioFile": "ep123.mp3"
+      "audioFile": null
     },
     {
       "id": 124,
@@ -1759,7 +1759,7 @@
       "context": "Algerian War. Violence as a cleansing force for the colonized.",
       "keyConflict": null,
       "keyConcept": "The Colonial Gaze",
-      "audioFile": "ep124.mp3"
+      "audioFile": null
     },
     {
       "id": 125,
@@ -1769,7 +1769,7 @@
       "context": "1978. \"The Orient\" is a Western fantasy used to justify empire.",
       "keyConflict": null,
       "keyConcept": "The Othering of the East",
-      "audioFile": "ep125.mp3"
+      "audioFile": null
     },
     {
       "id": 126,
@@ -1779,7 +1779,7 @@
       "context": "Mass Media. How democracies control thought without force.",
       "keyConflict": null,
       "keyConcept": "Filters",
-      "audioFile": "ep126.mp3"
+      "audioFile": null
     },
     {
       "id": 127,
@@ -1789,7 +1789,7 @@
       "context": "Brazil. Against the \"Banking Model\" of education (depositing facts).",
       "keyConflict": null,
       "keyConcept": "Conscientization (Conscientizacao)",
-      "audioFile": "ep127.mp3"
+      "audioFile": null
     },
     {
       "id": 128,
@@ -1799,7 +1799,7 @@
       "context": "Black Feminism. Critiquing white feminism for ignoring race and class.",
       "keyConflict": null,
       "keyConcept": "The Imperialist White Supremacist Capitalist Patriarchy",
-      "audioFile": "ep128.mp3"
+      "audioFile": null
     },
     {
       "id": 129,
@@ -1809,7 +1809,7 @@
       "context": "1970s Counterculture (influencing the 90s). Institutions create the needs they claim to satisfy.",
       "keyConflict": null,
       "keyConcept": "Radical Monopolies",
-      "audioFile": "ep129.mp3"
+      "audioFile": null
     },
     {
       "id": 130,
@@ -1819,7 +1819,7 @@
       "context": "1995. Why is there \"something it is like\" to be an information processor?",
       "keyConflict": null,
       "keyConcept": "The Hard Problem of Consciousness",
-      "audioFile": "ep130.mp3"
+      "audioFile": null
     },
     {
       "id": 131,
@@ -1829,7 +1829,7 @@
       "context": "Physicalism. Consciousness is an illusion; a \"user illusion\" of the brain.",
       "keyConflict": null,
       "keyConcept": "Cartesian Theater (denied)",
-      "audioFile": "ep131.mp3"
+      "audioFile": null
     },
     {
       "id": 132,
@@ -1839,7 +1839,7 @@
       "context": "AI Skepticism. A computer can simulate understanding without understanding.",
       "keyConflict": null,
       "keyConcept": "Strong AI vs. Weak AI",
-      "audioFile": "ep132.mp3"
+      "audioFile": null
     },
     {
       "id": 133,
@@ -1849,7 +1849,7 @@
       "context": "The Internet age. The mind is not in the skull; it spills out into our tools (notebooks, phones).",
       "keyConflict": null,
       "keyConcept": "Active Externalism",
-      "audioFile": "ep133.mp3"
+      "audioFile": null
     },
     {
       "id": 134,
@@ -1859,7 +1859,7 @@
       "context": "Neuroscience. The \"Self\" is a simulation created by the brain to help the organism survive.",
       "keyConflict": null,
       "keyConcept": "Phenomenal Self-Model",
-      "audioFile": "ep134.mp3"
+      "audioFile": null
     },
     {
       "id": 135,
@@ -1869,7 +1869,7 @@
       "context": "Current revival. Consciousness is a fundamental property of matter, like mass.",
       "keyConflict": null,
       "keyConcept": "Panpsychism",
-      "audioFile": "ep135.mp3"
+      "audioFile": null
     },
     {
       "id": 136,
@@ -1879,7 +1879,7 @@
       "context": "1990. Gender is not what you are; it is what you do.",
       "keyConflict": null,
       "keyConcept": "Gender Performativity",
-      "audioFile": "ep136.mp3"
+      "audioFile": null
     },
     {
       "id": 137,
@@ -1889,7 +1889,7 @@
       "context": "Post-9/11. Whose lives are considered \"grievable\" in war?",
       "keyConflict": null,
       "keyConcept": "Precarity",
-      "audioFile": "ep137.mp3"
+      "audioFile": null
     },
     {
       "id": 138,
@@ -1899,7 +1899,7 @@
       "context": "French Feminism. Western logic is male; women need a new language.",
       "keyConflict": null,
       "keyConcept": "Women on the Market",
-      "audioFile": "ep138.mp3"
+      "audioFile": null
     },
     {
       "id": 139,
@@ -1909,7 +1909,7 @@
       "context": "Technology & Feminism. We should embrace the cyborg to escape essentialism.",
       "keyConflict": null,
       "keyConcept": "The Cyborg",
-      "audioFile": "ep139.mp3"
+      "audioFile": null
     },
     {
       "id": 140,
@@ -1919,7 +1919,7 @@
       "context": "Trans Theory. Gender is regulated by hormones and pornography.",
       "keyConflict": null,
       "keyConcept": "Somatheque",
-      "audioFile": "ep140.mp3"
+      "audioFile": null
     },
     {
       "id": 141,
@@ -1929,7 +1929,7 @@
       "context": "Post-Colonial Studies. Western intellectuals cannot \"speak for\" the oppressed.",
       "keyConflict": null,
       "keyConcept": "Strategic Essentialism",
-      "audioFile": "ep141.mp3"
+      "audioFile": null
     },
     {
       "id": 142,
@@ -1939,7 +1939,7 @@
       "context": "Globalization. Culture happens in the \"Third Space\" between colonizer and colonized.",
       "keyConflict": null,
       "keyConcept": "Mimicry",
-      "audioFile": "ep142.mp3"
+      "audioFile": null
     },
     {
       "id": 143,
@@ -1949,7 +1949,7 @@
       "context": "Post-Foucault. Sovereignty is now the power to dictate who may live and who must die.",
       "keyConflict": null,
       "keyConcept": "Death-Worlds",
-      "audioFile": "ep143.mp3"
+      "audioFile": null
     },
     {
       "id": 144,
@@ -1959,7 +1959,7 @@
       "context": "The Camp (Guantanamo). The person who can be killed but not sacrificed.",
       "keyConflict": null,
       "keyConcept": "State of Exception",
-      "audioFile": "ep144.mp3"
+      "audioFile": null
     },
     {
       "id": 145,
@@ -1969,7 +1969,7 @@
       "context": "Biopolitics. Community is a debt; immunity is protection from that debt.",
       "keyConflict": null,
       "keyConcept": "Immunization paradigm",
-      "audioFile": "ep145.mp3"
+      "audioFile": null
     },
     {
       "id": 146,
@@ -1979,7 +1979,7 @@
       "context": "The 2000s. Structures are dissolving; relationships, jobs, and identities are fluid.",
       "keyConflict": null,
       "keyConcept": "Liquid Fear",
-      "audioFile": "ep146.mp3"
+      "audioFile": null
     },
     {
       "id": 147,
@@ -1989,7 +1989,7 @@
       "context": "1989. Ideology is not a belief; it's a practice (Cynical Reason).",
       "keyConflict": null,
       "keyConcept": "The Symptom",
-      "audioFile": "ep147.mp3"
+      "audioFile": null
     },
     {
       "id": 148,
@@ -1999,7 +1999,7 @@
       "context": "The War on Terror. We prefer the catastrophe in movies to the Real.",
       "keyConflict": null,
       "keyConcept": "The Passion for the Real",
-      "audioFile": "ep148.mp3"
+      "audioFile": null
     },
     {
       "id": 149,
@@ -2009,7 +2009,7 @@
       "context": "Anti-Human Rights. Ethics is about staying true to a revolutionary rupture.",
       "keyConflict": null,
       "keyConcept": "The Event",
-      "audioFile": "ep149.mp3"
+      "audioFile": null
     },
     {
       "id": 150,
@@ -2019,7 +2019,7 @@
       "context": "Education theory. Anyone can learn anything if they possess the will.",
       "keyConflict": null,
       "keyConcept": "Equality of Intelligence",
-      "audioFile": "ep150.mp3"
+      "audioFile": null
     },
     {
       "id": 151,
@@ -2029,7 +2029,7 @@
       "context": "Ecology. The split between \"Nature\" and \"Society\" was a lie.",
       "keyConflict": null,
       "keyConcept": "Hybrids",
-      "audioFile": "ep151.mp3"
+      "audioFile": null
     },
     {
       "id": 152,
@@ -2039,7 +2039,7 @@
       "context": "STS. A door-closer has agency just like a human.",
       "keyConflict": null,
       "keyConcept": "Actant",
-      "audioFile": "ep152.mp3"
+      "audioFile": null
     },
     {
       "id": 153,
@@ -2049,7 +2049,7 @@
       "context": "Architecture of Being. Humans build bubbles (spheres) to survive.",
       "keyConflict": null,
       "keyConcept": "Anthropotechnics",
-      "audioFile": "ep153.mp3"
+      "audioFile": null
     },
     {
       "id": 154,
@@ -2059,7 +2059,7 @@
       "context": "Instant warfare. Speed destroys democracy.",
       "keyConflict": null,
       "keyConcept": "The integral accident",
-      "audioFile": "ep154.mp3"
+      "audioFile": null
     },
     {
       "id": 155,
@@ -2069,7 +2069,7 @@
       "context": "The 90s. We have lost the ability to map our own world (Cognitive Mapping).",
       "keyConflict": null,
       "keyConcept": "Pastiche",
-      "audioFile": "ep155.mp3"
+      "audioFile": null
     },
     {
       "id": 156,
@@ -2079,7 +2079,7 @@
       "context": "2008 Crash. It is easier to imagine the end of the world than the end of capitalism.",
       "keyConflict": null,
       "keyConcept": "Hauntology (applied)",
-      "audioFile": "ep156.mp3"
+      "audioFile": null
     },
     {
       "id": 157,
@@ -2089,7 +2089,7 @@
       "context": "Cyberpunk philosophy. Capitalism is an AI from the future assembling itself.",
       "keyConflict": null,
       "keyConcept": "Hyperstition",
-      "audioFile": "ep157.mp3"
+      "audioFile": null
     },
     {
       "id": 158,
@@ -2099,7 +2099,7 @@
       "context": "The Web. Technology is female (weaving); the glitch is the liberation.",
       "keyConflict": null,
       "keyConcept": "The Matrix as Womb",
-      "audioFile": "ep158.mp3"
+      "audioFile": null
     },
     {
       "id": 159,
@@ -2109,7 +2109,7 @@
       "context": "Speculative Realism. Getting outside the human mind. The Arche-fossil proves reality existed before us.",
       "keyConflict": null,
       "keyConcept": "Correlationism",
-      "audioFile": "ep159.mp3"
+      "audioFile": null
     },
     {
       "id": 160,
@@ -2119,7 +2119,7 @@
       "context": "OOO. Objects interact with each other regardless of humans.",
       "keyConflict": null,
       "keyConcept": "Vicarious Causation",
-      "audioFile": "ep160.mp3"
+      "audioFile": null
     },
     {
       "id": 161,
@@ -2129,7 +2129,7 @@
       "context": "Global Warming. Climate Change is a Hyperobject -- viscous, non-local, and phasing.",
       "keyConflict": null,
       "keyConcept": "Dark Ecology",
-      "audioFile": "ep161.mp3"
+      "audioFile": null
     },
     {
       "id": 162,
@@ -2139,7 +2139,7 @@
       "context": "Rationalism. Thinking is the destruction of the Manifest Image.",
       "keyConflict": null,
       "keyConcept": "The Trauma of Reason",
-      "audioFile": "ep162.mp3"
+      "audioFile": null
     },
     {
       "id": 163,
@@ -2149,7 +2149,7 @@
       "context": "Global Poverty. If you don't save the drowning child, you are a monster.",
       "keyConflict": null,
       "keyConcept": "Speciesism",
-      "audioFile": "ep163.mp3"
+      "audioFile": null
     },
     {
       "id": 164,
@@ -2159,7 +2159,7 @@
       "context": "Future Ethics. We should care about our future selves like we care about others.",
       "keyConflict": null,
       "keyConcept": "The Teletransporter Paradox",
-      "audioFile": "ep164.mp3"
+      "audioFile": null
     },
     {
       "id": 165,
@@ -2169,7 +2169,7 @@
       "context": "Development Economics. Justice is not GDP; it's what people can actually do and be.",
       "keyConflict": null,
       "keyConcept": "Capabilities",
-      "audioFile": "ep165.mp3"
+      "audioFile": null
     },
     {
       "id": 166,
@@ -2179,7 +2179,7 @@
       "context": "Against Rawls. Don't look for perfect justice; look for less injustice.",
       "keyConflict": null,
       "keyConcept": "Niti vs. Nyaya",
-      "audioFile": "ep166.mp3"
+      "audioFile": null
     },
     {
       "id": 167,
@@ -2189,7 +2189,7 @@
       "context": "Self-optimization. Religion is just a \"practice regime.\"",
       "keyConflict": null,
       "keyConcept": "Vertical Tension",
-      "audioFile": "ep167.mp3"
+      "audioFile": null
     },
     {
       "id": 168,
@@ -2199,7 +2199,7 @@
       "context": "The ultimate pessimist. Existence is a flaw in the nothingness.",
       "keyConflict": null,
       "keyConcept": "The Inconvenience of Being",
-      "audioFile": "ep168.mp3"
+      "audioFile": null
     },
     {
       "id": 169,
@@ -2209,7 +2209,7 @@
       "context": "The AI Boom. Creating a god that might be indifferent to us.",
       "keyConflict": null,
       "keyConcept": "Orthogonality Thesis (Intelligence does not equal Morality)",
-      "audioFile": "ep169.mp3"
+      "audioFile": null
     },
     {
       "id": 170,
@@ -2219,7 +2219,7 @@
       "context": "Rationality Community. One wrong variable and the AI destroys the universe.",
       "keyConflict": null,
       "keyConcept": "Friendly AI",
-      "audioFile": "ep170.mp3"
+      "audioFile": null
     },
     {
       "id": 171,
@@ -2229,7 +2229,7 @@
       "context": "AI Safety. Machines should be uncertain about human objectives.",
       "keyConflict": null,
       "keyConcept": "Inverse Reinforcement Learning",
-      "audioFile": "ep171.mp3"
+      "audioFile": null
     },
     {
       "id": 172,
@@ -2239,7 +2239,7 @@
       "context": "The Metaverse. Virtual reality is genuine reality, not an illusion.",
       "keyConflict": null,
       "keyConcept": "Virtual Realism",
-      "audioFile": "ep172.mp3"
+      "audioFile": null
     },
     {
       "id": 173,
@@ -2249,7 +2249,7 @@
       "context": "Memory externalization. Technology isn't alien; it is the structure of human time.",
       "keyConflict": null,
       "keyConcept": "Grammatization",
-      "audioFile": "ep173.mp3"
+      "audioFile": null
     },
     {
       "id": 174,
@@ -2259,7 +2259,7 @@
       "context": "Big Tech. You are not the product; you are the carcass being mined for data.",
       "keyConflict": null,
       "keyConcept": "Instrumentarian Power",
-      "audioFile": "ep174.mp3"
+      "audioFile": null
     },
     {
       "id": 175,
@@ -2269,7 +2269,7 @@
       "context": "The Gig Economy. We don't need bosses; we slave-drive ourselves.",
       "keyConflict": null,
       "keyConcept": "The Achievement Subject",
-      "audioFile": "ep175.mp3"
+      "audioFile": null
     },
     {
       "id": 176,
@@ -2279,7 +2279,7 @@
       "context": "Social Media. We have communication without community.",
       "keyConflict": null,
       "keyConcept": "Ritual vs. Communication",
-      "audioFile": "ep176.mp3"
+      "audioFile": null
     },
     {
       "id": 177,
@@ -2289,7 +2289,7 @@
       "context": "Mental Health Crisis. Capitalism now exploits the soul/psyche, leading to depression.",
       "keyConflict": null,
       "keyConcept": "Semio-Capitalism",
-      "audioFile": "ep177.mp3"
+      "audioFile": null
     },
     {
       "id": 178,
@@ -2299,7 +2299,7 @@
       "context": "Bureaucracy. Why do 40% of people feel their job does not need to exist?",
       "keyConflict": null,
       "keyConcept": "Managerial Feudalism",
-      "audioFile": "ep178.mp3"
+      "audioFile": null
     },
     {
       "id": 179,
@@ -2309,7 +2309,7 @@
       "context": "Social Media Envy. We want things because others want them.",
       "keyConflict": null,
       "keyConcept": "The Scapegoat Mechanism",
-      "audioFile": "ep179.mp3"
+      "audioFile": null
     },
     {
       "id": 180,
@@ -2319,7 +2319,7 @@
       "context": "Effective Altruism. Future people matter as much as present people.",
       "keyConflict": null,
       "keyConcept": "Existential Risk",
-      "audioFile": "ep180.mp3"
+      "audioFile": null
     },
     {
       "id": 181,
@@ -2329,7 +2329,7 @@
       "context": "Nuclear/Bio Risk. We are in the most dangerous century in history.",
       "keyConflict": null,
       "keyConcept": "Extinction Risk",
-      "audioFile": "ep181.mp3"
+      "audioFile": null
     },
     {
       "id": 182,
@@ -2339,7 +2339,7 @@
       "context": "Climate Anxiety. Is it moral to bring children into a suffering world?",
       "keyConflict": null,
       "keyConcept": "Asymmetry Argument (Pain is bad, absence of pleasure is not bad)",
-      "audioFile": "ep182.mp3"
+      "audioFile": null
     },
     {
       "id": 183,
@@ -2349,7 +2349,7 @@
       "context": "True Detective Era. Consciousness is a tragic misstep in evolution.",
       "keyConflict": null,
       "keyConcept": "Malignant Uselessness",
-      "audioFile": "ep183.mp3"
+      "audioFile": null
     },
     {
       "id": 184,
@@ -2359,7 +2359,7 @@
       "context": "The Anthropocene. Thinking about the world without us.",
       "keyConflict": null,
       "keyConcept": "The World-without-us",
-      "audioFile": "ep184.mp3"
+      "audioFile": null
     },
     {
       "id": 185,
@@ -2369,7 +2369,7 @@
       "context": "Neorationalism. Intelligence is a functional program of self-correction.",
       "keyConflict": null,
       "keyConcept": "Functionalism",
-      "audioFile": "ep185.mp3"
+      "audioFile": null
     },
     {
       "id": 186,
@@ -2379,7 +2379,7 @@
       "context": "Breaking Western Tech-Monopoly. Different cultures have different \"technics.\"",
       "keyConflict": null,
       "keyConcept": "Cosmotechnics",
-      "audioFile": "ep186.mp3"
+      "audioFile": null
     },
     {
       "id": 187,
@@ -2389,7 +2389,7 @@
       "context": "Cloud Computing. Sovereignty is now vertical (Server, City, Cloud), not horizontal (Borders).",
       "keyConflict": null,
       "keyConcept": "The Stack",
-      "audioFile": "ep187.mp3"
+      "audioFile": null
     },
     {
       "id": 188,
@@ -2399,7 +2399,7 @@
       "context": "#MeToo. Sexism is an ideology; misogyny is the enforcement branch.",
       "keyConflict": null,
       "keyConcept": "Himpathy",
-      "audioFile": "ep188.mp3"
+      "audioFile": null
     },
     {
       "id": 189,
@@ -2409,7 +2409,7 @@
       "context": "Incels & Feminism. Is desire political? Can we critique who we are attracted to?",
       "keyConflict": null,
       "keyConcept": "Sexual racism",
-      "audioFile": "ep189.mp3"
+      "audioFile": null
     },
     {
       "id": 190,
@@ -2419,7 +2419,7 @@
       "context": "Critical Race Theory. The Social Contract was always a Racial Contract.",
       "keyConflict": null,
       "keyConcept": "Epistemology of Ignorance",
-      "audioFile": "ep190.mp3"
+      "audioFile": null
     },
     {
       "id": 191,
@@ -2429,7 +2429,7 @@
       "context": "BLM. Anti-blackness is the foundational glue of the world; it cannot be \"fixed,\" only ended.",
       "keyConflict": null,
       "keyConcept": "Social Death",
-      "audioFile": "ep191.mp3"
+      "audioFile": null
     },
     {
       "id": 192,
@@ -2439,7 +2439,7 @@
       "context": "American Democracy. Combining Christianity, Marxism, and Pragmatism.",
       "keyConflict": null,
       "keyConcept": "Nihilism in Black America",
-      "audioFile": "ep192.mp3"
+      "audioFile": null
     },
     {
       "id": 193,
@@ -2449,7 +2449,7 @@
       "context": "Believe Women. When prejudice causes you to doubt someone's testimony.",
       "keyConflict": null,
       "keyConcept": "Testimonial Injustice",
-      "audioFile": "ep193.mp3"
+      "audioFile": null
     },
     {
       "id": 194,
@@ -2459,7 +2459,7 @@
       "context": "Gamification. Games allow us to \"try on\" different agencies and motivations.",
       "keyConflict": null,
       "keyConcept": "Striving Play",
-      "audioFile": "ep194.mp3"
+      "audioFile": null
     },
     {
       "id": 195,
@@ -2469,7 +2469,7 @@
       "context": "Retrospective. Playing a game is the \"voluntary attempt to overcome unnecessary obstacles.\"",
       "keyConflict": null,
       "keyConcept": "Lusory Attitude",
-      "audioFile": "ep195.mp3"
+      "audioFile": null
     },
     {
       "id": 196,
@@ -2479,7 +2479,7 @@
       "context": "Fake News. The liar cares about the truth (to hide it); the bullshitter doesn't care at all.",
       "keyConflict": null,
       "keyConcept": "Bullshit",
-      "audioFile": "ep196.mp3"
+      "audioFile": null
     },
     {
       "id": 197,
@@ -2489,7 +2489,7 @@
       "context": "Corporate Power. Why do we accept dictatorships at work that we reject in politics?",
       "keyConflict": null,
       "keyConcept": "Private Government",
-      "audioFile": "ep197.mp3"
+      "audioFile": null
     },
     {
       "id": 198,
@@ -2499,7 +2499,7 @@
       "context": "Neuro-philosophy. The Left Brain (Detail) has usurped the Right Brain (Whole).",
       "keyConflict": null,
       "keyConcept": "The Divided Brain",
-      "audioFile": "ep198.mp3"
+      "audioFile": null
     },
     {
       "id": 199,
@@ -2509,7 +2509,7 @@
       "context": "Climate Crisis. When does pacifism become complicity?",
       "keyConflict": null,
       "keyConcept": "Strategic Pacifism (critique)",
-      "audioFile": "ep199.mp3"
+      "audioFile": null
     },
     {
       "id": 200,
@@ -2519,7 +2519,7 @@
       "context": "Philosophy of Science. Incorporating non-humans into politics.",
       "keyConflict": null,
       "keyConcept": "Cosmopolitics",
-      "audioFile": "ep200.mp3"
+      "audioFile": null
     },
     {
       "id": 201,
@@ -2529,7 +2529,7 @@
       "context": "Chthulucene. We need to make oddkin with other species to survive on a damaged planet.",
       "keyConflict": null,
       "keyConcept": "Tentacular Thinking",
-      "audioFile": "ep201.mp3"
+      "audioFile": null
     },
     {
       "id": 202,
@@ -2539,7 +2539,7 @@
       "context": "Neuroplasticity. The brain is plastic (formable), not elastic (returning to shape).",
       "keyConflict": null,
       "keyConcept": "Plasticity",
-      "audioFile": "ep202.mp3"
+      "audioFile": null
     },
     {
       "id": 203,
@@ -2549,7 +2549,7 @@
       "context": "Late Capitalist Aesthetics. Why do we value \"cuteness\" (powerlessness) or \"zaniness\" (overwork)?",
       "keyConflict": null,
       "keyConcept": "The Zany",
-      "audioFile": "ep203.mp3"
+      "audioFile": null
     },
     {
       "id": 204,
@@ -2559,7 +2559,7 @@
       "context": "Self-Creation. How do you value something (like opera) that you don't value yet?",
       "keyConflict": null,
       "keyConcept": "Proleptic Reasons",
-      "audioFile": "ep204.mp3"
+      "audioFile": null
     },
     {
       "id": 205,
@@ -2569,7 +2569,7 @@
       "context": "Decision Theory. You cannot rationally choose to become a parent because it changes who \"you\" are.",
       "keyConflict": null,
       "keyConcept": "Epistemic Transformation",
-      "audioFile": "ep205.mp3"
+      "audioFile": null
     },
     {
       "id": 206,
@@ -2579,7 +2579,7 @@
       "context": "The Self. Not everyone experiences life as a \"story.\"",
       "keyConflict": null,
       "keyConcept": "Episodic vs. Diachronic",
-      "audioFile": "ep206.mp3"
+      "audioFile": null
     },
     {
       "id": 207,
@@ -2589,7 +2589,7 @@
       "context": "Meta-Ethics. Kantianism, Utilitarianism, and Contractualism are climbing the same mountain.",
       "keyConflict": null,
       "keyConcept": "Convergence",
-      "audioFile": "ep207.mp3"
+      "audioFile": null
     },
     {
       "id": 208,
@@ -2599,7 +2599,7 @@
       "context": "Moral foundation. Morality is about justifying yourself to others.",
       "keyConflict": null,
       "keyConcept": "Reasonable Rejection",
-      "audioFile": "ep208.mp3"
+      "audioFile": null
     },
     {
       "id": 209,
@@ -2609,7 +2609,7 @@
       "context": "Meaning Crisis. Meaning arises when \"subjective attraction meets objective attractiveness.\"",
       "keyConflict": null,
       "keyConcept": "Fitting Fulfillment",
-      "audioFile": "ep209.mp3"
+      "audioFile": null
     },
     {
       "id": 210,
@@ -2619,7 +2619,7 @@
       "context": "Agency. What we love constrains our will, and that's good.",
       "keyConflict": null,
       "keyConcept": "Volitional Necessity",
-      "audioFile": "ep210.mp3"
+      "audioFile": null
     },
     {
       "id": 211,
@@ -2629,7 +2629,7 @@
       "context": "Radical Environmentalism. Humanity is a cancer; saving the biosphere requires totalitarianism.",
       "keyConflict": null,
       "keyConcept": "Lifeboat Ethics",
-      "audioFile": "ep211.mp3"
+      "audioFile": null
     },
     {
       "id": 212,
@@ -2639,7 +2639,7 @@
       "context": "The year 2045. The point where biological evolution yields to technological evolution.",
       "keyConflict": null,
       "keyConcept": "Law of Accelerating Returns",
-      "audioFile": "ep212.mp3"
+      "audioFile": null
     },
     {
       "id": 213,
@@ -2649,7 +2649,7 @@
       "context": "Bio-hacking. The right to modify your own body and mind.",
       "keyConflict": null,
       "keyConcept": "Extropy",
-      "audioFile": "ep213.mp3"
+      "audioFile": null
     },
     {
       "id": 214,
@@ -2659,7 +2659,7 @@
       "context": "Critical Theory. Moving beyond the Vitruvian Man to a zoe-centered ethics.",
       "keyConflict": null,
       "keyConcept": "Zoe (Life) vs. Bios",
-      "audioFile": "ep214.mp3"
+      "audioFile": null
     },
     {
       "id": 215,
@@ -2669,7 +2669,7 @@
       "context": "Video Game Theory. What is it like to be a pixel?",
       "keyConflict": null,
       "keyConcept": "Unit Operations",
-      "audioFile": "ep215.mp3"
+      "audioFile": null
     },
     {
       "id": 216,
@@ -2679,7 +2679,7 @@
       "context": "Ontology. All objects are equally real (flat ontology).",
       "keyConflict": null,
       "keyConcept": "The Ontic Principle",
-      "audioFile": "ep216.mp3"
+      "audioFile": null
     },
     {
       "id": 217,
@@ -2689,7 +2689,7 @@
       "context": "Globalization. We have obligations to others, but also a right to our own partialities.",
       "keyConflict": null,
       "keyConcept": "Rooted Cosmopolitanism",
-      "audioFile": "ep217.mp3"
+      "audioFile": null
     },
     {
       "id": 218,
@@ -2699,7 +2699,7 @@
       "context": "Beauty Standards. The unmodified body as a site of resistance.",
       "keyConflict": null,
       "keyConcept": "The Unmodified Body",
-      "audioFile": "ep218.mp3"
+      "audioFile": null
     },
     {
       "id": 219,
@@ -2709,7 +2709,7 @@
       "context": "Space Expansion. Should we spread life to the stars?",
       "keyConflict": null,
       "keyConcept": "Cosmic Significance",
-      "audioFile": "ep219.mp3"
+      "audioFile": null
     }
   ]
 }

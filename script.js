@@ -248,6 +248,7 @@ function renderEraPage(data, eraId) {
                                 ${ep.keyConcept ? `<div class="ep-concept">${ep.keyConcept}</div>` : ''}
                                 ${ep.keyConflict ? `<div class="ep-concept">${ep.keyConflict}</div>` : ''}
                             </div>
+                            ${ep.audioFile ? '<div class="ep-badge" title="Audio available">&#9654;</div>' : '<div class="ep-soon">Soon</div>'}
                             <div class="ep-arrow">&rsaquo;</div>
                         </a>
                     `).join('')}

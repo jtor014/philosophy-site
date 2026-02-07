@@ -260,6 +260,30 @@ a:hover {
     font-weight: 600;
 }
 
+.cta-button {
+    display: inline-block;
+    margin-top: 2rem;
+    padding: 0.85rem 2.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    color: var(--bg-deep);
+    background: var(--accent-gold);
+    border-radius: 8px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    opacity: 0;
+    animation: fadeIn 1s ease 1.2s forwards;
+}
+
+.cta-button:hover {
+    background: #e8c05a;
+    color: var(--bg-deep);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 20px rgba(212, 168, 67, 0.3);
+}
+
 .scroll-indicator {
     position: absolute;
     bottom: 2rem;
@@ -575,6 +599,23 @@ a:hover {
     line-height: 1.4;
 }
 
+.episode-card .ep-badge {
+    font-size: 0.6rem;
+    color: var(--accent-gold);
+    padding-top: 0.3rem;
+    opacity: 0.7;
+}
+
+.episode-card .ep-soon {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.6rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    padding-top: 0.3rem;
+    opacity: 0.5;
+}
+
 .episode-card .ep-arrow {
     color: var(--text-dim);
     font-size: 1rem;
@@ -837,6 +878,138 @@ a:hover {
     font-size: 0.75rem;
     color: var(--text-dim);
     letter-spacing: 0.05em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    border-top: 1px solid var(--border-subtle);
+}
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer-links a {
+    color: var(--text-dim);
+    font-size: 0.8rem;
+    transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+    color: var(--accent-gold);
+}
+
+/* --- About Page --- */
+.about-page {
+    max-width: 750px;
+    margin: 0 auto;
+    padding: 0 2rem;
+}
+
+.about-header {
+    padding: 6rem 0 2rem;
+}
+
+.about-header .back-link {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    letter-spacing: 0.05em;
+    display: inline-block;
+    margin-bottom: 2rem;
+    transition: color 0.3s ease;
+}
+
+.about-header .back-link:hover {
+    color: var(--accent-gold);
+}
+
+.about-header h1 {
+    font-size: clamp(2rem, 5vw, 3rem);
+    font-weight: 400;
+    color: var(--text-primary);
+}
+
+.about-body {
+    padding-bottom: 4rem;
+}
+
+.about-section {
+    margin-bottom: 2.5rem;
+}
+
+.about-section h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border-subtle);
+}
+
+.about-section p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-body);
+    margin-bottom: 1rem;
+}
+
+.pyramid {
+    margin: 2rem auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.4rem;
+}
+
+.pyramid-row {
+    width: var(--width, 50%);
+    padding: 0.6rem 1.25rem;
+    background: var(--bg-card);
+    border: 1px solid var(--border-subtle);
+    border-radius: 6px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+    text-align: center;
+    transition: all 0.3s ease;
+}
+
+.pyramid-row span {
+    color: var(--accent-gold);
+    font-weight: 600;
+    margin-right: 0.5rem;
+}
+
+.pyramid-row:hover {
+    background: var(--bg-card-hover);
+    border-color: var(--border-hover);
+}
+
+.about-section .cta-button {
+    animation: none;
+    opacity: 1;
+}
+
+@media (max-width: 768px) {
+    .about-page {
+        padding: 0 1.5rem;
+    }
+
+    .about-header {
+        padding: 5rem 0 1.5rem;
+    }
+
+    .pyramid-row {
+        width: calc(var(--width, 50%) + 20%) !important;
+        max-width: 100%;
+        font-size: 0.7rem;
+        padding: 0.5rem 0.75rem;
+    }
 }
 
 /* --- Animations --- */
