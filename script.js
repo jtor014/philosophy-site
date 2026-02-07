@@ -5,6 +5,17 @@
 // Cache for loaded data
 let _data = null;
 
+// Era folder mapping
+const ERA_FOLDERS = {
+    1: 'Era I - Foundations',
+    2: 'Era II - Architects of Modernity',
+    3: 'Era III - 19th Century Explosion',
+    4: 'Era IV - The Great Split',
+    5: 'Era V - Post-War & Post-Modern',
+    6: 'Era VI - Contemporary Explosion',
+    7: 'Era VII - The Now & The Future'
+};
+
 /**
  * Load and cache the episodes data
  */
@@ -345,12 +356,13 @@ function renderEpisodePage(data, epId) {
     }
 
     // Audio
-    if (ep.audioFile) {
+    const eraFolder = ERA_FOLDERS[ep.era];
+    if (ep.audioFile && eraFolder) {
         bodyHTML += `
             <div class="audio-section">
                 <h2>Listen</h2>
                 <audio controls preload="metadata">
-                    <source src="audio/${ep.audioFile}" type="audio/mpeg">
+                    <source src="audio/${eraFolder}/${ep.audioFile}" type="audio/mpeg">
                     Your browser does not support the audio element.
                 </audio>
             </div>
@@ -364,7 +376,13 @@ function renderEpisodePage(data, epId) {
         `;
     }
 
+    // Transcript placeholder
+    bodyHTML += `<div id="transcript-container"></div>`;
+
     body.innerHTML = bodyHTML;
+
+    // Load transcript
+    loadTranscript(epId);
 
     // Navigation
     const navFooter = document.getElementById('episode-nav');
@@ -392,6 +410,34 @@ function renderEpisodePage(data, epId) {
 
     // Update page title
     document.title = `Ep ${ep.id}: ${ep.title} — The Eternal Argument`;
+}
+
+// ---- Transcript Loader ----
+async function loadTranscript(epId) {
+    const container = document.getElementById('transcript-container');
+    if (!container) return;
+
+    const data = await loadData();
+    const ep = getEpisode(data, epId);
+    if (!ep) return;
+    const folder = ERA_FOLDERS[ep.era];
+    const file = `transcripts/${folder}/ep${String(epId).padStart(3, '0')}.md`;
+    try {
+        const resp = await fetch(file);
+        if (!resp.ok) return; // No transcript yet, show nothing
+        const text = await resp.text();
+        if (!text.trim()) return;
+
+        const html = typeof marked !== 'undefined' ? marked.parse(text) : `<pre>${text}</pre>`;
+        container.innerHTML = `
+            <div class="episode-section transcript-section">
+                <h2>Transcript</h2>
+                <div class="transcript-content">${html}</div>
+            </div>
+        `;
+    } catch (e) {
+        // No transcript available, fail silently
+    }
 }
 
 // ---- Init on DOMContentLoaded ----

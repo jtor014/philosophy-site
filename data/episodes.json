@@ -1,8 +1,7 @@
 {
   "series": {
     "title": "The Eternal Argument",
-    "tagline": "From Myth to Machine — The Story of Human Thought",
-    "totalEpisodes": 219
+    "tagline": "From Myth to Machine — The Story of Human Thought"
   },
   "eras": [
     {
@@ -10,7 +9,7 @@
       "number": "I",
       "title": "Foundations",
       "subtitle": "The First 2,000 Years",
-      "description": "The birth of abstract thought. Moving from myth to logos.",
+      "description": "A fast sweep through 2,000 years. The essential ideas you need before going deeper.",
       "color": "#c9a84c",
       "episodeRange": [
         1,
@@ -72,7 +71,7 @@
       "number": "II",
       "title": "The Architects of Modernity",
       "subtitle": "1600–1800",
-      "description": "The systems that built the modern world. Shifting from 'Why?' to 'How?'",
+      "description": "Slowing down. The thinkers who built the operating system of the modern world.",
       "color": "#3b82f6",
       "episodeRange": [
         19,
@@ -125,7 +124,7 @@
       "number": "III",
       "title": "The 19th Century Explosion",
       "subtitle": "1800–1900",
-      "description": "The rise of History, Will, and Revolution. The systems of Era II are set on fire.",
+      "description": "Going deeper. The century that set everything on fire.",
       "color": "#ef4444",
       "episodeRange": [
         34,
@@ -187,7 +186,7 @@
       "number": "IV",
       "title": "The Great Split",
       "subtitle": "1900–1950",
-      "description": "The divide between Logic (Analytic) and Experience (Continental).",
+      "description": "The pace slows again. Detailed explorations of the Analytic-Continental divide.",
       "color": "#8b5cf6",
       "episodeRange": [
         52,
@@ -250,7 +249,7 @@
       "number": "V",
       "title": "Post-War & Post-Modern",
       "subtitle": "1950–1990",
-      "description": "Deconstruction, Power, and the fracture of Truth.",
+      "description": "Deep dives into movements, books, and arguments that shaped the late 20th century.",
       "color": "#06b6d4",
       "episodeRange": [
         83,
@@ -328,7 +327,7 @@
       "number": "VI",
       "title": "The Contemporary Explosion",
       "subtitle": "1990–2015",
-      "description": "Granular & Specific. Deep dives into single, influential books.",
+      "description": "Single works, single authors. Close readings of the books that define our moment.",
       "color": "#22c55e",
       "episodeRange": [
         129,
@@ -412,7 +411,7 @@
       "number": "VII",
       "title": "The Now & The Future",
       "subtitle": "2015–2025",
-      "description": "Digitality, AI, and the Anthropocene. Philosophy in real-time.",
+      "description": "The deepest cut. Engaging with philosophy as it happens, in real-time.",
       "color": "#f97316",
       "episodeRange": [
         169,

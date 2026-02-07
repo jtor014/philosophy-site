@@ -39,7 +39,7 @@ body {
     font-family: 'Georgia', 'Times New Roman', serif;
     line-height: 1.7;
     color: var(--text-body);
-    background: linear-gradient(180deg, var(--bg-deep) 0%, var(--bg-surface) 50%, var(--bg-deep) 100%);
+    background: var(--bg-deep);
     min-height: 100vh;
 }
 
@@ -201,8 +201,12 @@ a:hover {
 .hero::before {
     content: '';
     position: absolute;
-    inset: 0;
-    background: radial-gradient(ellipse at center, rgba(212, 168, 67, 0.08) 0%, transparent 70%);
+    top: 20%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 600px;
+    height: 400px;
+    background: radial-gradient(ellipse at center, rgba(212, 168, 67, 0.06) 0%, transparent 70%);
     pointer-events: none;
 }
 
@@ -316,6 +320,7 @@ a:hover {
 }
 
 .era-card {
+    display: block;
     position: relative;
     margin-bottom: 2rem;
     padding: 1.5rem 2rem;
@@ -326,6 +331,7 @@ a:hover {
     transition: all 0.3s ease;
     opacity: 0;
     transform: translateX(-20px);
+    text-decoration: none;
 }
 
 .era-card.visible {
@@ -684,6 +690,42 @@ a:hover {
     font-size: 1.1rem;
     color: var(--text-primary);
     line-height: 1.6;
+}
+
+/* --- Transcript --- */
+.transcript-content {
+    font-size: 1rem;
+    line-height: 1.9;
+    color: var(--text-body);
+}
+
+.transcript-content h1,
+.transcript-content h2,
+.transcript-content h3 {
+    color: var(--text-primary);
+    margin-top: 2rem;
+    margin-bottom: 0.75rem;
+    font-weight: 400;
+}
+
+.transcript-content h1 { font-size: 1.4rem; }
+.transcript-content h2 { font-size: 1.2rem; }
+.transcript-content h3 { font-size: 1.05rem; }
+
+.transcript-content p {
+    margin-bottom: 1rem;
+}
+
+.transcript-content blockquote {
+    border-left: 3px solid var(--accent-gold);
+    padding-left: 1.25rem;
+    margin: 1.5rem 0;
+    color: var(--text-muted);
+    font-style: italic;
+}
+
+.transcript-content strong {
+    color: var(--text-primary);
 }
 
 /* --- Audio Player --- */
