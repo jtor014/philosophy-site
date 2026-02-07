@@ -437,10 +437,19 @@ async function loadTranscript(epId) {
         const html = typeof marked !== 'undefined' ? marked.parse(text) : `<pre>${text}</pre>`;
         container.innerHTML = `
             <div class="episode-section transcript-section">
-                <h2>Transcript</h2>
-                <div class="transcript-content">${html}</div>
+                <button class="transcript-toggle" aria-expanded="false">
+                    <h2>Transcript</h2>
+                    <span class="toggle-icon">&rsaquo;</span>
+                </button>
+                <div class="transcript-content collapsed">${html}</div>
             </div>
         `;
+        container.querySelector('.transcript-toggle').addEventListener('click', () => {
+            const btn = container.querySelector('.transcript-toggle');
+            const content = container.querySelector('.transcript-content');
+            const expanded = content.classList.toggle('collapsed');
+            btn.setAttribute('aria-expanded', !expanded);
+        });
     } catch (e) {
         // No transcript available, fail silently
     }

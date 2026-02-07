@@ -17,7 +17,7 @@
     <item>
       <title>Ep 1: The Pre-Socratics: Thales to Parmenides</title>
       <description>Water, Fire, and Flux — Ancient Greece (Ionia &amp; Italy). A time of fragmented city-states where thinkers began stripping away the gods to find the "Stuff" (Arche) of the universe.</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep001.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep001.mp3" type="audio/mpeg" length="12628941"/>
       <link>https://theeternalargument.org/episode.html?ep=1</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=1</guid>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
@@ -28,7 +28,7 @@
     <item>
       <title>Ep 2: The Sophists &amp; Socrates</title>
       <description>The Invention of Ethics — The Golden Age of Athens. Democracy is rising, but so is relativism. The Sophists teach how to win arguments; Socrates asks what is true.</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep002.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep002.mp3" type="audio/mpeg" length="10798125"/>
       <link>https://theeternalargument.org/episode.html?ep=2</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=2</guid>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
@@ -39,7 +39,7 @@
     <item>
       <title>Ep 3: Plato I: The Forms</title>
       <description>The Theory of Forms &amp; The Cave — Post-Socrates Athens. Plato tries to stabilize a crumbling world by positing a perfect, eternal realm beyond our senses.</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep003.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep003.mp3" type="audio/mpeg" length="9761133"/>
       <link>https://theeternalargument.org/episode.html?ep=3</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=3</guid>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
@@ -50,7 +50,7 @@
     <item>
       <title>Ep 4: Plato II: The Republic</title>
       <description>Politics &amp; The Soul — The failure of Athenian democracy (which killed Socrates). Plato designs a utopia ruled by philosopher-kings.</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep004.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep004.mp3" type="audio/mpeg" length="11400045"/>
       <link>https://theeternalargument.org/episode.html?ep=4</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=4</guid>
       <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
@@ -61,7 +61,7 @@
     <item>
       <title>Ep 5: Aristotle I: The Toolset</title>
       <description>Metaphysics &amp; Logic — The Macedonian Empire rises. Aristotle categorizes the physical world, inventing biology and logic.</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep005.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep005.mp3" type="audio/mpeg" length="9763437"/>
       <link>https://theeternalargument.org/episode.html?ep=5</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=5</guid>
       <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
@@ -72,7 +72,7 @@
     <item>
       <title>Ep 6: Aristotle II: Virtue Ethics</title>
       <description>The Nicomachean Ethics — How to live a good life in a polis.</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep006.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep006.mp3" type="audio/mpeg" length="10412877"/>
       <link>https://theeternalargument.org/episode.html?ep=6</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=6</guid>
       <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
@@ -83,10 +83,21 @@
     <item>
       <title>Ep 7: Epicurus &amp; The Cynics</title>
       <description>Pleasure vs. Dogs — Alexander the Great is dead; the world is massive and scary. Epicurus says "hide in the garden"; Diogenes says "bark at the emperor."</description>
-      <enclosure url="https://theeternalargument.org/audio/Era I - Foundations/ep007.mp3" type="audio/mpeg" length="0"/>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep007.mp3" type="audio/mpeg" length="15812685"/>
       <link>https://theeternalargument.org/episode.html?ep=7</link>
       <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=7</guid>
       <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Ep 8: The Stoics: Zeno, Epictetus, &amp; Marcus Aurelius</title>
+      <description>Control &amp; Duty — Roman Empire. From a slave (Epictetus) to an Emperor (Marcus), Stoicism becomes the operating system of Rome.</description>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep008.mp3" type="audio/mpeg" length="13216077"/>
+      <link>https://theeternalargument.org/episode.html?ep=8</link>
+      <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=8</guid>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
       <itunes:author>The Eternal Argument</itunes:author>
       <itunes:explicit>false</itunes:explicit>
     </item>

@@ -263,13 +263,14 @@ a:hover {
 .cta-button {
     display: inline-block;
     margin-top: 2rem;
-    padding: 0.85rem 2.5rem;
+    padding: 0.65rem 1.75rem;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    font-size: 0.9rem;
-    font-weight: 600;
-    letter-spacing: 0.05em;
-    color: var(--bg-deep);
-    background: var(--accent-gold);
+    font-size: 0.8rem;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    background: transparent;
+    border: 1px solid var(--border-subtle);
     border-radius: 8px;
     text-decoration: none;
     transition: all 0.3s ease;
@@ -278,10 +279,8 @@ a:hover {
 }
 
 .cta-button:hover {
-    background: #e8c05a;
-    color: var(--bg-deep);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 20px rgba(212, 168, 67, 0.3);
+    color: var(--accent-gold);
+    border-color: var(--accent-gold);
 }
 
 .scroll-indicator {
@@ -694,6 +693,7 @@ a:hover {
     text-transform: uppercase;
     color: var(--text-dim);
     margin-bottom: 0.75rem;
+    text-align: center;
 }
 
 .episode-header h1 {
@@ -708,6 +708,7 @@ a:hover {
     font-size: 1.15rem;
     color: var(--text-muted);
     font-style: italic;
+    text-align: center;
 }
 
 /* --- Episode Body --- */
@@ -762,6 +763,49 @@ a:hover {
 }
 
 /* --- Transcript --- */
+.transcript-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: none;
+    border: none;
+    border-bottom: 1px solid var(--border-subtle);
+    padding: 0 0 0.5rem;
+    margin-bottom: 1.5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.transcript-toggle h2 {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 0.75rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin: 0;
+    border: none;
+    padding: 0;
+}
+
+.transcript-toggle:hover h2 {
+    color: var(--text-muted);
+}
+
+.toggle-icon {
+    font-size: 1.2rem;
+    color: var(--text-dim);
+    transition: transform 0.3s ease;
+}
+
+.transcript-toggle[aria-expanded="true"] .toggle-icon {
+    transform: rotate(90deg);
+}
+
+.transcript-content.collapsed {
+    display: none;
+}
+
 .transcript-content {
     font-size: 1rem;
     line-height: 1.9;
@@ -847,20 +891,15 @@ a:hover {
     display: flex;
     flex-direction: column;
     gap: 0.2rem;
-    padding: 1rem 1.25rem;
-    background: var(--bg-card);
-    border: 1px solid var(--border-subtle);
-    border-radius: 10px;
+    padding: 0.5rem 0;
     color: var(--text-body);
     text-decoration: none;
-    transition: all 0.3s ease;
+    transition: color 0.3s ease;
     max-width: 45%;
 }
 
 .nav-btn:hover {
-    background: var(--bg-card-hover);
-    border-color: var(--border-hover);
-    color: var(--text-primary);
+    color: var(--accent-gold);
 }
 
 .nav-btn.next {
