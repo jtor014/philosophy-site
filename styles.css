@@ -12,7 +12,6 @@
 
 :root {
     --bg-deep: #0a0a0f;
-    --bg-surface: #111827;
     --bg-card: rgba(255, 255, 255, 0.05);
     --bg-card-hover: rgba(255, 255, 255, 0.08);
     --border-subtle: rgba(255, 255, 255, 0.1);
@@ -1062,23 +1061,6 @@ a:hover {
     opacity: 1;
 }
 
-@media (max-width: 768px) {
-    .about-page {
-        padding: 0 1.5rem;
-    }
-
-    .about-header {
-        padding: 5rem 0 1.5rem;
-    }
-
-    .pyramid-row {
-        width: calc(var(--width, 50%) + 20%) !important;
-        max-width: 100%;
-        font-size: 0.7rem;
-        padding: 0.5rem 0.75rem;
-    }
-}
-
 /* --- Animations --- */
 @keyframes fadeIn {
     from { opacity: 0; }
@@ -1135,6 +1117,21 @@ a:hover {
 
 /* --- Responsive --- */
 @media (max-width: 768px) {
+    .about-page {
+        padding: 0 1.5rem;
+    }
+
+    .about-header {
+        padding: 5rem 0 1.5rem;
+    }
+
+    .pyramid-row {
+        width: calc(var(--width, 50%) + 20%) !important;
+        max-width: 100%;
+        font-size: 0.7rem;
+        padding: 0.5rem 0.75rem;
+    }
+
     .top-bar {
         padding: 0.75rem 1rem;
     }

@@ -48,13 +48,6 @@ function getEpisode(data, id) {
     return data.episodes.find(e => e.id === id);
 }
 
-/**
- * Get episodes for an era
- */
-function getEraEpisodes(data, eraId) {
-    return data.episodes.filter(e => e.era === eraId);
-}
-
 // ---- Progress Bar ----
 function initProgressBar() {
     const bar = document.createElement('div');
@@ -75,7 +68,6 @@ function initTopBar() {
     const topBar = document.querySelector('.top-bar');
     if (!topBar) return;
 
-    let lastScroll = 0;
     const threshold = 100;
 
     window.addEventListener('scroll', () => {
@@ -85,7 +77,6 @@ function initTopBar() {
         } else {
             topBar.classList.remove('visible');
         }
-        lastScroll = scrollTop;
     }, { passive: true });
 }
 
@@ -447,8 +438,8 @@ async function loadTranscript(epId) {
         container.querySelector('.transcript-toggle').addEventListener('click', () => {
             const btn = container.querySelector('.transcript-toggle');
             const content = container.querySelector('.transcript-content');
-            const expanded = content.classList.toggle('collapsed');
-            btn.setAttribute('aria-expanded', !expanded);
+            const isCollapsed = content.classList.toggle('collapsed');
+            btn.setAttribute('aria-expanded', !isCollapsed);
         });
     } catch (e) {
         // No transcript available, fail silently
