@@ -116,5 +116,17 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ep 9: The Skeptics: Pyrrho &amp; Sextus Empiricus</title>
+      <description>Suspended Judgment — The clash of dogmatic schools. The Skeptics find peace by admitting they know nothing.</description>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep009.mp3" type="audio/mpeg" length="12678957"/>
+      <link>https://theeternalargument.org/episode.html?ep=9</link>
+      <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=9</guid>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:52:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
