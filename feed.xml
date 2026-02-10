@@ -128,5 +128,17 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ep 10: Neoplatonism: Plotinus</title>
+      <description>The One &amp; The Emanations — Late Antiquity (The decline of Rome). Philosophy turns mystical, preparing the ground for Monotheism.</description>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep010.mp3" type="audio/mpeg" length="15674925"/>
+      <link>https://theeternalargument.org/episode.html?ep=10</link>
+      <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=10</guid>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>1:05:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
