@@ -152,5 +152,17 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
 
+    <item>
+      <title>Ep 12: The Islamic Golden Age: Avicenna &amp; Averroes</title>
+      <description>The Aristotle Preservation Project — While Europe sleeps, Baghdad translates the Greeks. They reconcile the Quran with Aristotelian logic.</description>
+      <enclosure url="https://theeternalargument.org/audio/Era%20I%20-%20Foundations/ep012.mp3" type="audio/mpeg" length="11476269"/>
+      <link>https://theeternalargument.org/episode.html?ep=12</link>
+      <guid isPermaLink="true">https://theeternalargument.org/episode.html?ep=12</guid>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <itunes:author>The Eternal Argument</itunes:author>
+      <itunes:duration>0:47:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
